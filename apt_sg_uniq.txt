@@ -1,0 +1,4445 @@
+   1 0	Yes
+   1 1990s	part
+   1 A	log files
+   1 A disclosure	the term
+   1 A form	trojan
+   1 A main backdoor module	several component groups
+   1 A mutex	Windows object
+   1 A rogue Tranchulas	employee
+   1 A wide range	apps
+   1 AD	marker number
+   1 AD domain	servers
+   1 AEP	technologies
+   1 AES	algorithms
+   1 AES	strong encryption algorithms
+   1 AES encryption	initialization vector
+   1 ANGELS	weapons
+   1 AOL	platforms
+   1 API name obfuscation	Bunny
+   1 APIs	strings
+   1 APT	actors
+   1 APT command	malicious network activity
+   1 APT group	APT12
+   1 APT groups	actors
+   1 APT groups	attackers
+   1 APT groups	weapons
+   2 APT campaigns	part
+   1 APT1	APT groups
+   1 APT1	the culprit
+   1 APT10	a China
+   1 APT10	actors
+   1 APT28	a suspected Russian government
+   1 APT28	code names
+   1 APT30 Leverages Major Political Transition	Phishing Lure Content
+   1 APTs	persistence mechanisms
+   1 ARM	architectures
+   1 ASCII	protection measures
+   1 ASCII representations	DarkComet
+   1 ASEAN summits	events
+   1 ASERT	Etumbot malware
+   2 ASP	languages
+   1 ASPX	languages
+   1 AURORA PANDA	adversaries
+   1 Actor	FLYING KITTEN Today
+   1 Adam Senft	Citizen Lab colleagues
+   1 Adobe 	applications
+   1 Adobe Flash	plugins
+   1 Adobe Flash	vulnerable application
+   1 Adobe Flash Player	programs
+   1 Adobe Flash Player	vendors
+   1 Adobe Reader	popular software
+   1 Adobe Reader	s client side software
+   1 Adobe Reader	s machine
+   1 Adobe Reader Kaspersky Lab products	applications
+   2 Adobe Flash Player	applications
+   2 Adobe Reader	legitimate software applications
+   2 Adobe Reader	popular productivity applications
+   1 Advantech WebAccess	HMI applications
+   1 Adversary	activities
+   1 Afghanistan	a context
+   1 Afghanistan	individuals
+   1 Afghanistan	part
+   3 Afghanistan	countries
+   1 Africa	further afield
+   1 Ahmed Mansoor	UAE dissidents
+   1 AhnLab Policy Center	a propagation method
+   1 Al Qaeda	groups
+   1 All sort	networks
+   1 American industry	a whole
+   1 American power	a dangerous counter
+   1 Ammy Admin	programs
+   1 Amnesty International	rights organizations
+   1 Andrew Blaich	investigation
+   1 Android	platforms
+   1 Android Version	the target
+   1 Andromeda	loaders
+   1 Angler	kits
+   1 Angola	customers
+   1 Angola	points
+   1 Anonymous	actors
+   1 Anonymous	cyber terrorists
+   1 Anonymous	groups
+   1 Anonymous	hacktivists
+   1 Anonymous	political hacktivist groups
+   1 Another form	non
+   1 Anti	methods
+   1 Apache	the site
+   1 Apache	web server software
+   1 Apache	web services
+   1 AppLocker	features
+   1 Appendix F Personas	Persona
+   1 Apple	IT companies
+   1 Apple	part
+   1 Apple	several major technology companies
+   1 Apple	whales
+   1 Apple Mac OS X	JRE
+   1 Apple Pay	solutions
+   2 Apple	companies
+   1 Application Data directory	wab32res
+   1 Application Data directory	win32res
+   1 Applocker	tools
+   1 April campaign	an 
+   1 Arabic	Unicode languages
+   1 Arabic themes	a decoy
+   1 ArcomRAT	campaigns
+   1 Argentina	the globe
+   1 Armenia Turkey Lithuania Belarus Malaysia Middle East Ukraine Slovakia Kazahstan Spain United Kingdom Argentina Japan Hong Kong India Taiwan Ghana European Union Institutions NATO Affiliated Targets Targets	regions
+   1 Asia	regions
+   1 Aspack	packers
+   1 Aurora	APT incidents
+   1 Aurora	campaigns
+   1 Aurora Botnet	DNS streams
+   1 Australia	China
+   1 Austria	countries
+   1 Authors Ryan Sherstobitoff	threats
+   1 AutoIt Backdoor	sets
+   1 Axiom	stages
+   1 Axiom activity	groups
+   1 Axiom targets	a means
+   1 Azzy	Linux targets
+   1 Azzy	tools
+   1 BADNEWS	this operation
+   1 BERSERK BEAR	cryptonyms
+   1 BLIZKO	banking applications
+   1 BOULDER BEAR	cryptonyms
+   1 BS2005	HTTP REPLY
+   1 Back Orifice	online
+   1 Bahrain	actors
+   1 Bahrain	countries
+   1 Baidu	cloud computing platforms
+   1 Baltic states	a threat
+   1 Bangladesh	countries
+   1 Bank	organizations
+   1 Barents Sea shelf	areas
+   1 BeeBus	this region
+   1 Beijing Topsec	a private organization
+   1 Belarus	CIS countries
+   1 Belarus	locations
+   2 Belarus	countries
+   1 Belgium	the globe
+   2 Belgium	countries
+   1 Below	Python script
+   1 BiFrost	Trojans
+   1 Bill Marczak	document preparation
+   1 Billion	a result
+   1 Bing	Search engines
+   1 Bing	websites
+   1 Bitsadmin	administration tools
+   1 Black Gold	companies
+   1 Black Vine	Other cyberespionage groups
+   1 BlackEnergy	components
+   1 BlackEnergy2	malware
+   1 BlackPoS	Activity Malware
+   1 BlackShades	trojans
+   1 Blackberry	platforms
+   1 Blackenergy	intelligence
+   1 Blackenergy	malware
+   1 Blaster	outbreaks
+   1 Blogger	sites
+   1 Blogs	websites
+   1 Blowfish	algorithms
+   1 Bluenoroff	Kaspersky Lab codename
+   1 Bluenoroff	a subgroup
+   1 Bluetooth	intelligence
+   1 Boolean	different value types
+   1 Bowen Press content	lures
+   1 Brandishing Cyberattack Capabilities	RAND monographs
+   1 Brazil	China
+   1 Bronze Soldier monument	World War II Soviet War memorial
+   1 Brunei	countries
+   1 Bulgaria	countries
+   1 Bureau	Unit
+   2 Butterfly	corporate espionage groups
+   1 C	Prikormka malware
+   1 C	a default location
+   1 C	a language
+   1 C	changes
+   1 C	common system paths
+   1 C	communication functions
+   1 C	domains
+   1 C	indicators
+   1 C	information
+   1 C	languages
+   1 C	paths
+   1 C infrastructure	Type T
+   1 C server	MachBot controller
+   1 C server	Windows desktop application
+   1 C server	reports
+   1 C servers	tasks
+   1 C2	Targeted Exploitation
+   1 C2	indicators
+   1 C2	samples
+   1 C2 IPs	things
+   1 C2 Screenshot	samples
+   1 C2 domains	domains
+   1 C2 domains	variables
+   1 C2 response	a token
+   1 C2 server	a specific user Close
+   1 C2 server	an encryption key
+   1 C2 server	http parameters
+   1 C2 server	part
+   1 C2 server	purposes
+   1 C2 server address	a command line argument
+   1 C2 servers	components
+   1 C375h	payloads
+   1 CCTV	physical security devices
+   1 CDN cloud	the reflection server
+   1 CERNET	IPv6 network
+   1 CERT	organizations
+   1 CERT coordination	bodies
+   1 CHARMING KITTEN	adversaries
+   1 CICIR	tanks
+   1 CNN	media outlets
+   1 COM	Microsoft technologies
+   1 COM Object hijacking	COMpfun
+   1 CORESHELL	beacons
+   1 CRASHOVERRIDE	ELECTRUM
+   1 CSDBuildNumber	registry
+   1 CSDN	sites
+   1 CSS	files
+   1 CVE	Windows
+   2 CVE	exploits
+   1 Cair3x	members
+   1 CallWindowProcW	functions
+   2 Cambodia	countries
+   1 Camellia	encryption algorithm
+   1 Campaign ID	values
+   1 Canada	countries
+   1 Canada	nations
+   1 Carberp	public code depositories
+   1 Carbon	Turla group
+   1 Carla Bruni	a lure
+   1 Center	sites
+   1 Central Sulawesi	regions
+   1 Cerberus	Delphi RAT projects
+   1 Cerberus	addition RATs
+   1 Certificaciones De Pagos Nominas Parafiscales	names
+   1 ChChes	families
+   1 Chad	points
+   1 ChangeServiceConfig2A	names
+   1 Chats	common communication
+   1 Chechnya	Islamic issues
+   1 Check Command	this region
+   1 China	Southeast
+   1 China	TA459
+   1 China	a counterbalance
+   1 China	a dominant power
+   1 China	a means
+   1 China	a state
+   1 China	a suzerain
+   1 China	a valuable trading partner
+   1 China	a way
+   1 China	activity
+   1 China	an ally
+   1 China	cyber attackers
+   1 China	nations
+   1 China	powers
+   1 China	the culprit
+   1 China	the source
+   1 China	the world
+   1 China Number City State Country	registration data
+   1 China perceives	a threat
+   2 China	a state actor
+   2 China	locations
+   7 China	countries
+   1 Chinese	Unicode languages
+   1 Chinese	the default display language
+   1 Chinese cyber activity	a whole
+   1 Chrome	a browser
+   1 Chrome	program
+   1 Cisco	popular network infrastructure
+   1 Cisco AnyConnect software	a lure
+   1 Cisco VPNs	popular network infrastructure
+   1 Cisco application	a decoy
+   1 Cisco edge	physical internal infrastructure
+   1 Citizen Lab	groups
+   1 CitizenLab	research groups
+   2 Claudio Guarnieri	Citizen Lab colleagues
+   1 Cloud Service	technologies
+   1 Cluster	clusters
+   1 Cobalt Strike	frameworks
+   1 Cobra Carbon System	a userland centric
+   1 Code Red	computer worms
+   1 Code Red	outbreaks
+   1 ColdFusion	the site
+   1 Command	the attack wave
+   1 Command A B D E J R Meaning Same	J
+   1 Comment	Unknown
+   1 Common Ground	part
+   1 Companies	entities
+   1 Concealment Troy	variants
+   1 Conficker	outbreaks
+   1 Control	the attack wave
+   1 Cookie	part
+   1 Coopers	FANCY BEAR
+   1 Coreshell	Linux targets
+   1 CosmicDuke	tools
+   1 Country	the target
+   1 CouponRuc	modifiers
+   1 CouponRuc	unwanted software
+   1 CozyDuke	DLL file
+   1 CozyDuke	OnionDuke
+   1 CozyDuke	tools
+   1 Cozyduke	Dukes
+   1 Create process	IE user
+   1 CreateProcess	API calls
+   1 CreateRemoteThread	code injection
+   1 Credit Union	organizations
+   1 Crimea	a dimension
+   1 Crimea	cities
+   1 Crisis	RAND monographs
+   1 Crouching Yeti	APT
+   1 CrowdStrike	DEEP PANDA
+   1 CrowdStrike	ENERGETIC BEAR
+   1 CrowdStrike	FANCY BEAR
+   1 CrowdStrike	HURRICANE PANDA
+   1 CrowdStrike	PUTTER PANDA
+   1 CrowdStrike	Stone Panda
+   1 CrowdStrike	groups
+   1 CrowdStrike researchers	partners
+   1 CryptoWall	success
+   1 Cryptolocker	recent ransomware
+   1 Cryptowall	recent ransomware
+   1 Cuckoo Sandbox	malware analysis
+   1 CurrentBuild	registry
+   1 CurrentVersion	registry
+   1 Cyber Berkut	hacker groups
+   1 Cyber Reconnaissance	components
+   1 Cyber attacks	weapons
+   1 Cyber power	a key facet
+   1 Cyber realm	a method
+   1 CyberBerkut	hacktivist groups
+   2 CyberBerkut	groups
+   1 CyberGate	Delphi RAT projects
+   1 CyberGate	remote administration tools
+   1 Cyberattacks Rise	Ukraine Crisis Spills
+   1 Cybergate	addition RATs
+   1 Cyberkov	Feeds
+   1 Cyborg Logger	remote administration tools
+   1 Cylance	leading security firms
+   1 D	devices
+   1 DCLeaks	a Russian
+   1 DCLeaks	a Russian influence operation
+   1 DDOSHTTPFLOOD	command strings
+   1 DDoS	North Korea
+   1 DDoS	unsophisticated cyber attacks
+   1 DDoS attacks	Ukraine
+   1 DDoS attacks	a part
+   1 DDoS attacks	a political tool
+   1 DDoS attacks	incidents
+   2 DDoS	tactics
+   1 DEMO	basic information
+   1 DES	algorithms
+   1 DHS	entities
+   1 DLL running	a service
+   4 DLL	a service
+   1 DNC	entities
+   2 DNC	aspects
+   1 DNP3	a protection mechanism
+   1 DNP3	protocols
+   1 DNS	Acquire network information
+   1 DNS	Various stealth methods
+   1 DNS	a critical communication element
+   1 DNS	channels
+   1 DNS	protocols
+   1 DNS Tunneling	C2 channel 
+   1 DNS blacklisting	solutions
+   1 DNS functionality	X
+   1 DNS queries	a data exfiltration channel
+   1 DNS requests	a command
+   1 DNS servers	local network configuration
+   1 DOC	common file types
+   1 DOC	document formats
+   1 DOC files	Documents
+   1 DRAT	RATs
+   1 DTL PE resource	samples
+   1 DaVinci RCS	commercial malware
+   1 Dalai Lama	Tibetan groups
+   1 Dalai Lama	Tibetan targets
+   1 Dalailama	OHHDL systems
+   1 DameWare	other remote administration tools
+   1 DarkComet	Others
+   1 DarkComet	campaigns
+   1 DarkComet	remote administration tools
+   1 DarkComet	trojans
+   2 DarkComet	RATs
+   2 DarkComet	other malware
+   1 Darkhotel distribute	APT
+   1 Deep Discovery	Technologies available today
+   1 Deep Discovery	solutions
+   1 DeepSight Adversary Intelligence fuels	services
+   1 Deepwater Horizon	rigs
+   1 Deepwater Horizon incident	a cyber
+   1 Defence Attaché Q1 meetings	subjects
+   1 Dell	trademarks
+   1 Denmark	Nordic countries
+   1 Description The module	Win32 PE executable file
+   1 Detected	TROJ  STRPADT
+   1 Dev hima	an internal author
+   1 Dev hima	application publisher
+   1 Device Name	the target
+   1 Digg	media sites
+   1 Digg	sites
+   1 Digital Bond	research groups
+   1 Digital Linx Hosting	the registrant organization
+   1 Dino	protected storage
+   1 Displayed below	YARA signature
+   1 DllMain ADB Add ADB Cleanup ADB Initnj ADB Load ADB Release ADB Remove ADB Setup ADB Setup	exports
+   1 Domain	servers
+   1 Domain Controllers	systems
+   1 Domains	operators
+   1 Domains disguises	healthcare
+   1 Donbass	fierce
+   1 Dongguan	areas
+   1 Download File command	the name implies
+   1 Driver	NDIS
+   1 Driver	a complete system
+   1 DroidJack	tools
+   1 DropIt	a binder
+   1 Dropbox	options
+   1 Drupal	PHP scripting language
+   1 Dukes group	a secondary backdoor
+   1 Dukes group	versions
+   1 Duo Insight	exercises
+   1 Duo Insight	tools
+   1 Duqu	security experts
+   1 Duqu	similar kind
+   1 DustySky	Other threat actors
+   1 Dynamic API Loading	a proxy
+   1 DynamoRIO	emulators
+   1 DynamoRIO	popular dynamic analysis tools
+   1 DynamoRIO	various program analysis tools
+   1 DynamoRio	binary instrumentation tools
+   1 Dynapass	Software
+   1 Dyreza	Trojans
+   1 EAX	the baton
+   1 EAX register	an index
+   1 EBay	targets
+   1 EIPR	NGOs
+   1 EMC	trademarks
+   1 EMP burst	a surprise
+   1 ENR	sectors
+   1 EPS	features
+   1 EQUATIONDRUG	sophisticated platform
+   1 ESA	RSA NetWitness capabilities
+   1 ESA	Suspected C
+   1 ESA identifies	Suspected C
+   1 ESET	network security firms
+   1 ESET	security companies
+   1 ESET detects	JS
+   1 ESET products	Python
+   2 ESET products	Win32
+   1 EU	a problem
+   1 EVFS containers	files
+   1 Each value	REG MULTI SZ value
+   3 Ecuador	countries
+   1 Egypt	Middle Eastern governments
+   1 Egypt	customers
+   1 Egypt	deserts
+   1 Egypt	points
+   1 Elaman	a partner
+   1 Elderwood	sectors
+   1 Eleonore	kits
+   1 Eleonore	packs
+   1 Eliot Higgins	Bellingcat researchers
+   1 Elirks	Trojans
+   1 Elirks executable file masquerade	folder
+   1 Elise	part
+   1 Eln News	Middle Eastern media organizations
+   1 Email	common communication
+   2 Emissary Trojan	a payload
+   1 EnCase	means
+   1 Energy	services
+   1 Enfal	command
+   1 English	Zapad
+   1 English	a primary language
+   1 Enhanced Security Configuration	features
+   1 Enumerate	systems
+   1 Equation	attackers
+   1 Escalation	RAND monographs
+   1 Estonia	NATO ally
+   1 Estonia	Smaller countries
+   1 Estonia	attacks
+   1 Estonia	cyberspace
+   1 Estonia	locations
+   1 Estonia	satellites
+   1 Estonia	the country
+   1 Ethiopia	government clients
+   1 Etumbot	APT malware
+   1 Etumbot backdoor	RIPTIDE
+   1 Europe	nations
+   1 European aerospace companies	Aerospace
+   1 Events	Standard Windows primitives
+   1 Excel documents	a delivery method
+   2 Exception	e
+   1 Explosive Trojan	a service
+   1 FANCY BEAR	Russia
+   1 FBI	entities
+   1 FIN7	this post
+   1 FLYING KITTEN	adversaries
+   1 FQDNs	C2
+   1 FQDNs	C2 addresses
+   1 FQDNs	the same shared infrastructure
+   1 FSA	groups
+   1 FTK	means
+   1 FTP	the firewall
+   1 FTP	the victim network
+   1 FTP command	that command
+   1 Facebook	IT companies
+   1 Facebook	RTB ads
+   1 Facebook	accounts
+   1 Facebook	apps
+   1 Facebook	attackers
+   1 Facebook	several major technology companies
+   1 Facebook	sites
+   1 Facebook	targets
+   1 Facebook	websites
+   1 Facebook	whales
+   1 Facebook status	a mechanism
+   3 Facebook	companies
+   1 Factor Authentication	a default
+   1 FakeM	a modular framework exists
+   1 FakeM Original CallMe CallMe	Trojan
+   1 FakeM SSL	RC4 algorithm
+   1 FakeM samples	FakeM
+   1 Fallaga	RATs
+   1 Falun Gong	groups
+   1 Fancy Bear	labels
+   1 Federal	segments
+   1 Figure	customers
+   1 Figure	figures
+   1 Figure	function looks
+   3 File	this threat
+   1 FinFisher	commercial malware
+   1 FinFisher	products
+   1 FinFisher reseller	a partner
+   2 FinFisher	companies
+   2 FinFisher	intrusion software
+   1 FinFly Web	FinFisher product
+   1 Financial	segments
+   1 Finland	Nordic countries
+   1 Finland	Smaller countries
+   1 FireEye	APT32
+   1 FireEye	Backdoor
+   1 FireEye	FIN7
+   1 FireEye	groups
+   1 FireEye 	other security companies
+   1 FireEye iSIGHT	authorities
+   1 Firefox	browsers
+   1 Flame	complex malware frameworks
+   1 Flame	security experts
+   1 Flame	similar kind
+   1 Flame malware	a possible triggering event
+   1 Flamer	other sophisticated malware families
+   1 Flamer	sectors
+   1 Flamer	tools
+   1 Flash	applications
+   1 Flash	exploits
+   1 Flickr	video uploading sites
+   1 Foreign Affairs	media resources
+   1 FoxMail	software
+   1 France	an ally
+   1 France	the globe
+   1 Freegate	Software
+   1 Frethog	families
+   1 Fully Qualified Domain Names	resources
+   1 Fully Qualified Domain Names	unique technical infrastructure
+   1 G DATA security	Backdoor
+   2 G	the computer
+   1 GE CIMPLICITY	HMI applications
+   1 GET request	a down
+   1 GFWoC	a censorship measure
+   1 GMER	rootkit scanners
+   1 GOTHIC PANDA	Russia
+   1 GPS	features
+   1 GPS Figure	information leakage
+   1 GREF	threat groups
+   1 GUIDs	above
+   1 Gabon	customers
+   1 Gafsa	Tunisia
+   1 Gamma 	governments
+   1 Gamma International	companies
+   1 Garden Networks	Software
+   1 Gartner Analyst Avivah Litan	fraud experts
+   1 Gas	companies
+   1 Gauss	security experts
+  17 Gecko	KHTML
+   1 General Electric	Companies
+   1 Georgia	CIS countries
+   1 Georgia	RBN operative
+   1 Georgia	attacks
+   1 Georgia	countries
+   3 Germany	countries
+   1 GetMsnList	command strings
+   1 GetOfflineLogs	command strings
+   1 GetScreenShot	Commands
+   1 Gh0StRAT	malware payloads
+   1 Gh0st	backdoors
+   1 Gh0st RAT	APT malware
+   1 Gh0st RAT	RATs
+   1 Gh0st RAT	backdoors
+   2 Gh0st	RATs
+   1 Gh0stRat	attackers
+   1 Ghana	Africa
+   2 GitHub	legitimate web services
+   1 GlassRAT	RATs
+   1 Gmail	apps
+   1 Gmail	sent
+   2 Gmail	a corporate mail solution
+   2 Gmail	a service
+   2 Gmail	accounts
+   1 Goodrich	Companies
+   1 Google	Internet content delivery
+   1 Google	Yahoo
+   1 Google	a voluntary waypoint
+   1 Google	cloud computing platforms
+   1 Google	tools
+   1 Google	websites
+   1 Google Code	a host
+   1 Google Docs	options
+   1 Google Docs	platforms
+   1 Google Drive	a delivery vector
+   1 Google Drive	an alternative
+   1 Google Drive	files
+   1 Google Drive links	a delivery vector
+   1 Google Play Store	Google Play
+   1 Google Scholar	sites
+   1 Google Wallet	solutions
+   1 Google drive	legitimate service
+   2 Google	companies
+   1 GoogleAds	platforms
+   1 Government	countries
+   1 Government Agency	Windows
+   1 Government perceives	constricting
+   1 Governments	actors
+   1 Grabber	malware payloads
+   1 Greece	countries
+   2 Greg	SecDev Group associate
+   1 Guangdong	China
+   1 Guidance EnCase Enterprise	capable platform
+   1 HAMMERTOSS	a backup
+   1 HBGary	entities
+   1 HMIs	a part
+   1 HTML code	a decoy
+   1 HTML pages	commands
+   1 HTRAN	Internet
+   1 HTRAN	a proxy tool
+   1 HTRAN	available tool
+   1 HTTP	different network protocols
+   1 HTTP	the firewall
+   1 HTTP connections	mechanisms
+   1 HTTP header	part
+   2 HTTP	protocols
+   1 HTran	Internet
+   1 HTran	traffic relay servers
+   1 HURRICANE PANDA	Russia
+   1 HURRICANE PANDA	groups
+   1 HVAC	facilities
+   1 HVAC	multiple industrial control industries
+   1 HVAC	physical security devices
+   1 HWP	Documents
+   2 Hacking Team	companies
+   1 Hamas	targets
+   1 HammerDuke	MiniDuke
+   1 Harbin Institute	universities
+   1 HawkEye Logger	types
+   1 Headquarters	facilities
+   1 Hebrew	a first language Emet
+   1 Hellsing attacker	https
+   1 Hidden Lynx	Groups
+   1 Hidden Lynx	other notorious attack groups
+   1 Hidden Lynx	sectors
+   1 Honeywell	Companies
+   1 Hong Kong	China
+   1 Hong Kong	municipalities
+   1 Hong Kong	part
+   2 Hong Kong	countries
+   1 HttpOpenRequest	APIs
+   1 Hungary	countries
+   2 Hungary	locations
+   1 Hupigon	RATs
+   1 Hupigon	trojans
+   1 Hybrid Warfare	Success
+   1 Hydraq	threats
+   1 IBM X	colleagues
+   1 ICS application	engineering files
+   1 ICSs	the energy sector
+   1 ID	Md5 hash
+   1 ID	an administrator
+   1 IDA	Debuggers
+   1 IDA	tools
+   1 IDF servicemen	victims
+   1 IEC	Some network protocols
+   1 IED configuration	engineering files
+   2 IEHarden registry	keys
+   1 IFOBS	banking applications
+   1 IHEATE	threats
+   1 IIS	the site
+   1 IIS servers	systems
+   1 IMEI	Upload device information
+   1 IMEI number	data
+   1 IMSI	Upload device information
+   1 IMSI	network metadata
+   1 IO	emergent mob
+   1 IOPlatformUUID	the infected computer
+   1 IP	APT1 indicators
+   1 IP	Acquire network information
+   1 IP	additional information
+   1 IP	evidence
+   1 IP	technical identifying information
+   1 IP	the client
+   1 IP	the dtl
+   1 IP	the other dtl domains
+   1 IP	the same shared infrastructure
+   1 IP	www
+   1 IP address	an originator
+   1 IP address	basic system information
+   1 IP address	information
+   1 IP address	the client
+   1 IP address	the previous campaign
+   1 IP addresses	indicators
+   1 IP addresses	local network configuration
+   1 IP block	the development
+   1 IPs	IPs
+   1 IPs	notebookhk
+   1 IPs	victims
+   1 IRC	means
+   1 IRC	secondary channel
+   1 ISIS	groups
+   1 ISIS objectives	targets
+   1 IT	areas
+   1 IXESHE malware	APT malware
+   1 Iceland	Nordic countries
+   1 Iceland	cyberspace
+   1 Identification	FinSpy
+   1 Identification	RCS
+   1 India	combat aircraft
+   1 India	locations
+   1 India	targets
+   1 India	the globe
+   2 India	countries
+   1 Indonesia	countries
+   1 Indonesia	points
+   1 Indonesia	the globe
+   1 Industroyer	the main backdoor
+   1 Information Security Doctrine	Russian information security
+   2 Install	root
+   1 Intelligence	authorities
+   1 Intellipedia	new online exchange
+   1 Intelsat connection	North Korea 
+   1 Internet	a powerful source
+   1 Internet	disposable command
+   1 Internet	networks
+   1 Internet Explorer	a subprocess
+   1 Internet Explorer	a web browser
+   1 Internet Explorer	client storage
+   1 Internet adapter configuration information	system information
+   2 Internet Explorer	Microsoft products
+   4 Internet Explorer	browsers
+   1 Investigations	BADNEWS
+   1 Iran	China
+   1 Iran	a cyber
+   1 Iran	activity
+   1 Iran	individuals
+   1 Iran	nations
+   1 Iran	points
+   4 Iran	countries
+   3 Iraq	countries
+   1 Irene Poetranto	Citizen Lab colleagues
+   1 IsDebuggerPresent The malware	analysis
+   1 Israel	Middle Eastern governments
+   1 Israel	combat aircraft
+   1 Israel	individuals
+   4 Israel	countries
+   1 J K M N R Meaning Same	J
+   1 JPG icon	RAT file bound
+   1 JSP	languages
+   1 JVdJTkRJUiUA	base64 algorithm
+   1 JackPoS	Dexter
+   1 James	Hong Kong
+   1 Jammu	topics
+   2 Japan	countries
+   1 Jarno Limnéll	Professor
+   1 Java	exploits
+   1 Java	programs
+   1 Java	unwanted software
+   3 Java	applications
+   1 JavaScript	files
+   1 Javascript code	an exploit server
+   1 Jerusalem Post	websites
+   1 Jhuhugit	Linux targets
+   1 John Scott Railton	Research Fellow
+   1 Jordan	customers
+   1 July	historical significance
+   2 Juniper VPN	legitimate software applications
+   1 Just	each country
+   1 Just	infection
+   1 KIS2010	products
+   1 KakaoTalk	apps
+   1 Kali	systems
+   1 Kali Linux	Linux distribution
+   1 Kaspersky	Kopiluak
+   1 Kaspersky	companies
+   1 Kaspersky	groups
+   1 Kaspersky	research groups
+   1 Kaspersky	security firms
+   1 Kaspersky Internet Security	threats
+   1 Kaspersky Lab	PlayfullDragon
+   1 Kaspersky Lab	network security firms
+   1 Kaspersky Lab	security companies
+   1 Kaspersky Lab scanners	Virus
+   1 Kaspersky blog	a 
+   1 Kaspersky products	following
+   2 Kaspersky	Trojan
+   2 Kaspersky Lab products	Trojan
+   3 Kaspersky Lab products	Exploit
+   1 Kazakhstan	customers
+   1 Kazakhstan	points
+   2 Kazakhstan	countries
+   1 Kenya	a lure
+   1 Kenya	customers
+   1 Kerberos tickets	credentials
+   1 KeylogOn	command strings
+   1 KillDisk	components
+   2 King	a 
+   1 Kingslayer	a backdoor compromise
+   1 Kingslayer beaconing	Suspected C
+   1 Kivars	malware payloads
+   1 Komplex	a payload
+   1 Korean Aerospace Systems Engineering	events
+   1 Kristy Edwards	investigation
+   1 Kyiv 	Ukraine
+   1 LAZARUS MALWARE Only	samples
+   1 Laos	countries
+   1 Latin America	regions
+   1 Laudanum	Web shells
+   1 Launch a program	a specific user Close
+   1 Leader personas	Profiles
+   1 Leader personas	purport
+   1 Lebanon	customers
+   1 Lebanon	cyberspace
+   1 Liam O Murchu	Development Manager
+   3 Liberation Army	Organization Reference Volume v1
+   1 Libya	an active warzone
+   2 Libya	countries
+   1 Lig Nex1	defense industry contractors
+   1 Lightsout exploit kit	an attack vector
+   1 Liisa Past	NATO CCD COE adviser
+   1 Likely posing	the game Call
+   1 Link Library functioning	a loader
+   1 Linux	JRE
+   1 Linux	different operating system
+   1 Linux Turla module	C
+   3 Linux	platforms
+   1 Linxder	actors
+   1 List	systems
+   1 Lithuania	satellites
+   1 Live	a download page
+   1 Local IP Address	the target
+   1 Lockheed Martin	organizations
+   1 Lotus Domino email	attackers
+   1 LulzSec	hacktivists
+   1 MAC address	the client
+   1 MANAGE	C
+   1 MANITSME	tools
+   1 MAVERICK PANDA	groups
+   1 MBR	a marker
+   1 MBR	the encryption key
+   1 MD5 C2 Uses Hurricane Electric	samples
+   1 MICROSOFT SECURITY INTELLIGENCE REPORT	modifiers
+   1 MIPS	architectures
+   1 MSN	legitimate messenger applications
+   1 MSN messenger iexplore	names
+   1 MSPs	victims
+   1 MSS operational concept	a model
+   1 Maariv news	websites
+   1 Mac OS X	platforms
+   1 MacAfee	incidents
+   1 Mail	IM software
+   1 Mail	a command
+   1 Mail accounts	a command
+   1 Mail accounts	an element
+   3 Mail accounts	command
+   1 Malaysia	the globe
+   4 Malaysia	countries
+   1 Malware Path	the target
+   1 Malware Similarity Just	banks
+   1 Malwr	common malware repositories
+   1 March	the mission
+   1 Marvel comic book	the register
+   1 Masashi Crete	Citizen Lab colleagues
+   1 Masashi Nishihata	Citizen Lab colleagues
+   1 Master Class	Profibus DP devices
+   1 Maudi	the downloaded payload
+   1 Maudis use domain	strings
+   1 Max Bazaliy	investigation
+   1 McAfee	security vendors
+   1 McAfee Foundstone Professional Services consultants	entities
+   1 McAfee Labs	entities
+   1 McAfee employees	entities
+   2 McAfee ePO	capable platform
+   1 MediaWiki	PHP scripting language
+   1 Meiji University	various Japanese education institutes
+   1 Metaphors matter	the language
+   1 Metasploit	online
+   1 Metasploit	sets
+   1 Metasploit	systems
+   1 Metasploit Framework	tools
+   1 Meterpreter	Metasploit framework
+   1 Meterpreter	a potential payload
+   1 Meterpreter	payloads
+   1 Meterpreter payload	a copy
+   1 Mexican journalist Rafael Cabrera	NSO Group
+   2 Mexico	countries
+   1 Michael Flossman	investigation
+   1 Microsoft	IT companies
+   1 Microsoft	giants
+   1 Microsoft	several major technology companies
+   1 Microsoft	targets
+   1 Microsoft	the industry standard
+   1 Microsoft	vendors
+   1 Microsoft	whales
+   1 Microsoft Edge	a web browser
+   1 Microsoft Exchange	attackers
+   1 Microsoft Internet Information Services	web server software
+   1 Microsoft Office	products
+   1 Microsoft Office documents	attachments
+   1 Microsoft Security Intelligence Report	a guide
+   1 Microsoft Windows Automatic updates	processes
+   1 Microsoft Windows organization registration information	systems
+   1 Microsoft Word	s client side software
+   1 Microsoft Word	s machine
+   2 Microsoft	companies
+   2 Microsoft Office	applications
+   2 Microsoft Office	popular productivity applications
+   2 Microsoft Office document	an attachment
+   1 Middle East	fields
+   1 Mike Murray	investigation
+   1 MimiKatz	tools
+   1 Mimikatz	common hacking tools
+   1 Mimikatz	password dumpers
+   2 Mimikatz	tools
+   1 MiniDuke	malware
+   1 MiniDuke	tools
+   1 MiniDuke	toolsets
+   1 Mirage	this region
+   1 Mirage malware	malware
+   1 MobileOrder	Trojans
+   1 Module listing	files This module
+   1 Mongall	tools
+   1 Mongolia	countries
+   1 Montenegro	countries
+   1 Moonlight Maze	strategic cyber espionage campaigns
+   1 Moose	a worm
+   1 Morgan Marquis	document preparation
+   1 Morocco	customers
+   1 Morocco	locations
+   1 Moscow	Russia
+   6 Moscow	cities
+   1 Mozilla	browsers
+   1 Mozilla Firefox	client storage
+   1 MyDoom	sets
+   1 Myanmar	countries
+   1 Myanmar speakers	targets
+   1 Mynamar government	Myanmar
+   1 N	filename
+   1 NATO	European security organizations
+   1 NATO	opponents
+   1 NATO members	an expert
+   1 NGO	part
+   1 NGOs	a means
+   1 NGOs	partners
+   1 NGOs	victims
+   1 NIC	organizations
+   2 NJRAT	other malware
+   1 NTLM Hash information	an administrator
+   1 NTLM hashes	credentials
+   1 Naenara	features proprietary software
+   1 Naikon	this region
+   1 Naikon distribute	APTs
+   1 NanoCore	remote administration tools
+   1 National Cyber	entities
+   1 Ned Moran	Citizen Lab colleagues
+   1 Nepal	locations
+   1 Net Traveler	sectors
+   1 NetBus	online
+   1 NetTraveler	Trojan
+   1 NetTraveler	campaigns
+   1 NetTraveller	programs
+   1 Netwire RAT	a different 
+   1 Nevada	states
+   1 NewCT2	tools
+   1 Nflog	tools
+   1 Nigeria	points
+   2 Nigeria	countries
+   1 Night Dragon	APT incidents
+   2 Night Dragon	attacks
+   1 NightDragon	intrusions
+   1 Nile Phish targets	a phishing campaign
+   1 Nimda	outbreaks
+   1 Nitro	APT groups
+   1 Nitro	sectors
+   1 None	Bandook
+   1 None	actions
+   1 None	exploits
+   1 None	norms
+   1 None	plugins
+   1 None	samples
+   1 None	tools
+   1 North Korea	a buffer zone
+   1 North Korea	a terroristic threat
+   1 Norton Security	Use comprehensive security software
+   1 Norway	Nordic countries
+   1 Notepad	Notepad act
+   1 OLE	Microsoft technologies
+   1 OPERATION TYPE DECRYPT receives	input
+   1 OS	Collect system information
+   1 OS	a boot start service
+   1 OS	system information
+   1 OS X environment	Kim
+   1 OS name	the infected computer
+   1 OS version	gathers system information
+   1 OS version	information
+   1 OS version number	data
+   1 OS vulnerabilities	vectors
+   1 OSINT	governments
+   1 OSX	devices
+   1 ObReferenceObjectByHandle	Kernel routine
+   1 Object Oriented C	an unusual programming technique
+   1 Odnoklassniki	media networks
+   1 Office	MH370
+   1 Office	program
+   1 Office document	another attack vector
+   1 Office documents	attachments
+   1 Office documents	data
+   1 Oil conferences	documents topics
+   1 Ollydbg	Debuggers
+   1 Oman	customers
+   1 Oman	points
+   2 OneDrive	a channel
+   2 OneDrive	a secondary communication channel
+   2 OneDrive	party web services
+   1 Onion Duke	malware families
+   1 OnionDuke	Dukes
+   1 OnionDuke	tools
+   1 Online	Hackers Attack
+   1 OpRussia	groups
+   1 OpenSCManager	APIs
+   1 OpenX	platforms
+   1 Opening Windows Firewall Method Acts	a proxy
+   1 Opera	browsers
+   1 Operation	WhiskeyAlfa
+   1 Operation Aurora	intrusions
+   1 Operation Beebus	attacks
+   1 Operation Cloud Hopper APT10	a China
+   1 Operation Cloud Hopper None	domains share
+   1 Operation Night Dragon	Cyber Attack
+   2 Operation	APT activity
+   1 Oracle	giants
+   1 Outlook Web Access	services
+   1 P constant	Regin
+   1 P2 protocol	the code
+   1 PAGE	the gaming content
+   1 PBS	organizations
+   1 PDF	a decoy
+   1 PDF	an attachment
+   1 PDF	another attack vector
+   1 PDF	document formats
+   1 PDF exploit	attachment
+   1 PDF viewers	applications
+   1 PDFs	documents
+   1 PE	download
+   1 PE header	a preferred allocation base
+   1 PHP	languages
+   1 PHP	the site
+   1 PIN	binary instrumentation tools
+   1 PIN tool	emulators
+   1 PIN tool	popular dynamic analysis tools
+   1 PIVY	the payload
+   1 PIVY passwords	samples
+   1 PK2	a console client
+   1 PLC code	Stuxnet
+   1 PLC information gathering	functions
+   1 PLCs	ICS hardware
+   1 PNG file format	the carrier format
+   1 PNG image file format	the carrier
+   1 POP3	different network protocols
+   1 POST bodies	a method
+   1 POST request	the key
+   1 PPSX documents	a vehicle
+   1 PPT	common file types
+   1 PRC Chinese	default languages
+   1 PRC views	an inalienable part
+   1 PRC views	an internal problem
+   1 PSExec	common hacking tools
+   1 PSYOPS	attacks
+   1 PSYOPS	modern information operations
+   1 PUSHed	parameters
+   1 Pakistan	a single theater
+   1 Pakistan	countries
+   1 Pakistan	locations
+   1 Pakistani woman	a decoy
+   1 Palantir	sponsors
+   1 Palo Alto	colleagues
+   1 Palo Alto Networks	a command
+   1 Palo Alto Networks WildFire	measures
+   1 Panda	China
+   1 Papua	regions
+   1 Paraguay	customers
+   1 ParamB	an integer value
+   1 Parker Aerospace	Companies
+   1 Partial list	members
+   1 PassiveTotal	Feeds
+   1 PassiveTotal	tools
+   1 Pastebin	sites
+   2 Pathankot attack	a lure
+   1 Pawn Storm	APT actors
+   1 PayPal	targets
+   1 Pegasus	threats
+   1 Perrigo	US
+   1 Philippines	countries
+   1 Pin	various program analysis tools
+   1 PlugX	Trojan
+   1 PlugX	malware
+   1 PlugX	malware payloads
+   1 PoS terminals	devices
+   1 Podcasts	available free web sources
+   1 Poison	families
+   1 Poison Ivy	RATs
+   1 Poison Ivy	Remote Access Tools
+   1 Poison Ivy	Trojans
+   1 Poison Ivy	an adversary tool
+   1 Poison Ivy	legacy capabilities
+   1 Poison Ivy	payloads
+   1 Poison Ivy	the same common malware
+   1 Poison Ivy	trojans
+   2 Poison Ivy	backdoors
+   2 Poison Ivy	tools
+   4 PoisonIvy	RATs
+   2 Poland	countries
+   1 Pony Loader	loaders
+   1 Portugal	the globe
+   1 Poseidon Group	a security firm
+   1 Posing	a parcel
+   1 Posing	hacktivist groups
+   1 PowerShell	administration tools
+   1 PowerShell Empire	public code depositories
+   1 PowerSploit	frameworks
+   1 Prakash Jain	registrant
+   1 President Xi 	factors
+   1 PrivacyProtect	anonymization
+   1 ProductName	registry
+   1 Programmers United Develop Net	sites
+   1 ProjectSauron	a serious actor
+   1 ProjectSauron	an expensive cyberespionage campaign
+   1 ProjectSauron	internal proxy nodes
+   1 PsExec	administration tools
+   1 PsExec	systems
+   1 Psiphon Inc	sponsors
+   1 Psylo	Trojans
+   1 PwDump	Tools
+   1 PwDump	credential theft tools
+   1 PwDump6	tools
+   1 Qatar	countries
+   1 RAM	the target
+   1 RAR	archives
+   1 RAR file	needing translation
+   1 RAT	part
+   1 RC4	strong encryption algorithms
+   1 RC4 encryption key	the malware configuration
+   1 RC5	strong encryption algorithms
+   1 RC6	strong encryption algorithms
+   2 RDP files	the infected system
+   1 RIG	kits
+   1 RIS	GRIZZLY STEPPE
+   1 ROCKET KITTEN	adversaries
+   1 RSA	Terracotta
+   1 RSA	organizations
+   1 RSA	trademarks
+   1 RSA Live	part
+   1 RSA NetWitness Endpoint	EDR tool
+   1 RSA breach	actors
+   1 RSS feeds	available free web sources
+   1 RTF	common file types
+   1 RTF	document formats
+   1 RTF	emails
+   1 RTF exploit document	Win32
+   1 RTF file	an attachment
+   1 RTF files	attachments
+   1 Radmin	other remote administration tools
+   1 Raqqah	areas
+   1 Raqqah	groups
+   1 Red October	Red October Just
+   1 RedOctober	malware
+   1 Referer	the compromised website
+   1 Regin	high profile threats
+   1 Regin	modern malware
+   1 Regin	similar kind
+   1 Regin platform	Trojan
+   1 Regin platform	a simple backdoor
+   1 Register the payload	a scheduled task
+   1 Remote Access Service	client storage
+   1 Remote Access Trojan	research points
+   1 Remote Manipulator Tool	applications
+   1 ReservedApi	the kernel
+   1 Response	JPEG File
+   1 Rocket Kitten	attackers
+   1 Romania	countries
+   1 Ron Deibert	document preparation
+   2 Ron Deibert	Citizen Lab colleagues
+   1 RootkitRevealer	rootkit scanners
+   1 Run	Console
+   1 Run	administrator
+   1 RunExeCmdSingle component	DLL file
+   1 Russia	Actors
+   1 Russia	Islamic issues
+   1 Russia	State actors
+   1 Russia	a bystander
+   1 Russia	cases
+   1 Russia	locations
+   1 Russia	regions
+   1 Russia Tops China	Principal Cyber Threat
+   2 Russia	members
+   2 Russia	nations
+   2 Russia	part
+   3 Russia	CIS countries
+   8 Russia	countries
+   1 Russian strategy	part
+   2 S Same	J
+   1 SABRE PANDA	groups
+   1 SANS	organizations
+   1 SAV	components
+   1 SCADA environment vpn client	installers
+   1 SCADA networks	environments
+   1 SCIENTISTS AND RESEARCH	individuals
+   1 SCT file	an argument
+   1 SEC	U
+   1 SEC filing document	a lure
+   1 SH offering	APT1 affiliation
+   1 SIM	Upload device information
+   1 SIM country	network metadata
+   1 SIM operator	network metadata
+   1 SIM serial	network metadata
+   1 SIM state	network metadata
+   1 SMB routers	network devices
+   1 SMS messages	data
+   1 SMTP	different network protocols
+   1 SPACESHIP	tools
+   1 SPE	Lazarus Group
+   1 SPE	targets
+   1 SQL Slammer	outbreaks
+   1 SQL database	identification
+   1 SQL injection	common web exploitation techniques
+   1 SQL injection	part
+   1 SQL queries	features
+   2 SQL injection	techniques
+   2 SQLMap	tools
+   1 SQLi	web application security flaws
+   1 SSDs	technologies
+   2 SSH keys	the infected system
+   1 SSL certificate	a means
+   1 SSL certificate	part
+   1 SSL code	the code
+   1 STL	languages
+   1 STRONTIUM	groups
+   1 SWIFT	an organization hasn
+   1 SWIFT	fields
+   1 SabPub	APT
+   1 Saker	other malware
+   1 Salsa20	strong encryption algorithms
+   1 Same	E
+   1 Same	MD subcommand
+   1 Same	a command
+   1 Same	datasize
+   1 Same	mswme32
+   1 Same	previous illustration
+   1 Same file	app11
+   1 Same file	start
+   1 Sandworm	intelligence
+   1 Sandworm	sets
+   1 Sandworm exploit	the execution
+   2 Sarah McKune	Citizen Lab colleagues
+   1 Sarin gas	attacks
+   1 Sasser	outbreaks
+   1 Saudi Arabia	customers
+   1 Saudi Arabia	points
+   1 Saudi Arabic	default languages
+   4 Saudi Arabia	countries
+   1 SaverExtension	unwanted software
+   1 ScanBox	frameworks
+   1 Scanline	Tools
+   1 ScarCruft	HEUR Trojan
+   1 ScarCruft	resourceful threat actors
+   1 Scarlet Mimic	attack groups
+   1 SeaDuke	Dukes
+   1 Security software use worldwide	infection
+   1 Sednit	previous work a high profile group
+   2 Sednit	a high profile group
+   1 Sedreco	a spying backdoor
+   1 Seduploader	Sednit components
+   1 Seduploader	a two
+   1 Seinup	this region
+   1 Selectron Industrial Company	defense industry contractors
+   1 Send random	the header RHOST X
+   1 Senegal	Africa
+   1 Service Set Identifier	WiFi networks
+   1 Seth Hardy	investigation
+   1 Shadowpad	a supply chain infection
+   1 Shamoon	a ransomware tool
+   1 Shamoon	attacks
+   1 Shamoon	incidents
+   1 Shanghai	registration data
+   1 Shell Crew	advanced threat actors
+   1 Shellcode	sets
+   1 Shodan	sources
+   1 Siemens SIMATIC	HMI applications
+   1 Singapore	countries
+   1 Size Type Install	root
+   1 Skipper	s operation a first stage backdoor
+   1 Skype	an infected computer
+   1 Skype	apps
+   1 Skype	media sites
+   1 Skype	mobile apps
+   1 Skype	technologies
+   1 Slammer	computer worms
+   1 Slovenia	customers
+   1 Smoaler	cure Malware
+   1 Smoke Loader	loaders
+   1 Snake	intelligence
+   1 Snake	much flexibility
+   1 Snake	some advanced cyber espionage malware
+   1 Snort	IDS
+   1 Sochi	subjects
+   1 Social Network Sites	Control Channels
+   1 Sofacy	malware families
+   1 Sofacy	the real culprit
+   1 Sofacy group	C2s
+   1 Software Engineer	Development Manager
+   2 Somalia	countries
+   1 Some sort	internal review
+   1 Sony	organizations
+   1 Sophos	Troj
+   1 South Africa	combat aircraft
+   1 South East	targets
+   1 South Korea	combat aircraft
+   1 South Korea	countries
+   1 South Korea	the globe
+   1 South Korea The above example	media report
+   1 South Korean steel	organizations
+   1 South Korean territory	the entire Korean peninsula
+   1 Spain	customers
+   1 Spain	the globe
+   1 SpiderLabs	groups
+   1 SpyNet	Delphi RAT projects
+   1 SpyNet RAT	spyware
+   1 Sri Lanka	countries
+   1 St	Russia
+   1 St	cities
+   1 Startup folder	a service DLL
+   1 Startup folder	an autostart
+   1 StartupInfo structure	a string
+   1 Stealth Falcon	operators
+   1 Step7 project	records
+   2 Step7 project path	input
+   1 Stuxnet	APT campaigns
+   1 Stuxnet	ICS
+   1 Stuxnet	U
+   1 Stuxnet	attacks
+   1 Stuxnet	computer worms
+   1 Stuxnet	control system attacks
+   1 Stuxnet	date
+   1 Stuxnet	malware
+   1 Stuxnet	signifies
+   1 Stuxnet DLL	an executable file
+   1 Stuxnet LNK exploit	exploits
+   1 Stuxnet components	Trojan
+   1 Stuxnet exploding gas	pipelines
+   1 Stuxnet viruses	Attacks
+   1 Sub7	online
+   1 Sudan	points
+   1 Sunday	the week
+   1 Supermailer	software
+   1 Supporter personas	Profiles
+   1 Suricata	IDS
+   1 Surtr	this malware family
+   1 Sweden	Nordic countries
+   1 Sweden	countries
+   2 Switzerland	countries
+   1 Symantec	Backdoor
+   1 Symantec	Dragonfly
+   1 Symantec	OSX
+   1 Symantec	Trojan
+   1 Symantec	companies
+   1 Symantec	incidents
+   1 Symantec	network security firms
+   1 Symantec	security firms
+   1 Symantec Critical System Protection	solutions
+   1 Symantec Endpoint Protection	Symantec products
+   1 SymantecUpdate	SymantecLiveUpdate
+   1 Symbian	platforms
+   1 Syria	a lure
+   1 Syria	deserts
+   3 Syria	countries
+   1 Syser Debugger	Tools
+   1 System Center Endpoint Protection	sources
+   1 T	the cryptographic key
+   1 T9000	malware payloads
+   1 TA459	attack groups
+   1 TAO operations	computer network exploitation
+   1 TEMPER PANDA	groups
+   1 TINYTYPHON	this operation
+   1 TNG	helpful assistance
+   1 TV	media
+   1 TV5Monde attack	VBS
+   1 TYPO3	blogging platforms
+   1 TYPO3	tools
+   1 Tagalog	languages
+   1 Taidoor	other malware
+   1 Taidoor	this region
+   1 Taiwan	Asia
+   1 Taiwan	an inalienable part
+   1 Taiwan	combat aircraft
+   1 Taiwan	customers
+   1 Taiwan	nations
+   1 Taiwan	security policy issues
+   1 Taiwan presidential election	a spear phishing theme
+   2 Taiwan	countries
+   1 TeamSpy	parties
+   1 TeamSpy components	Red October Just
+   1 Teamviewer	part
+   1 Technical Details Most interesting	victims
+   1 TelePort Crew threat actor register	part
+   1 Telegram	apps
+   1 Telenor Pakistan	communications service provider
+   1 Telvent	company
+   1 Temporary component INSTALLER Bypass UAC Run	administrator Persistent
+   1 Terracotta	VPN service
+   1 Text	Bloomberg news story
+   1 Thai	languages
+   1 Thailand	countries
+   1 Thailand	the globe
+   1 The ability	specific file
+   1 The actual contact	POST request
+   1 The attachment	Microsoft Office file
+   1 The attachment	Word document
+   1 The component posing	Microsoft Antispyware
+   1 The decoded file	Maudi dropper
+   1 The dropped file	RarSFX archive
+   1 The encrypted file systems	a work environment
+   1 The fi rst connection	KEEPALIVE connection
+   1 The file descriptions	properties
+   1 The fingerprinting scripts gains	much information
+   1 The first component	Windows kernel driver
+   1 The first port acts	a control
+   1 The generated key	SHA1 hash
+   1 The initial download	Java Applications Descriptor
+   1 The keylogger	hacking tools
+   1 The last sample	DarkShell ddos bot
+   1 The lure document	Powerpoint
+   1 The main payload	DLL file
+   1 The process count	environment check
+   1 The relevant file hashes	data
+   1 The sample	PowerPoint file
+   1 The server response	PowerShell command
+   1 The time zone	C
+   2 The infected machine acts	the server
+   3 The module	Windows DLL file
+  13 The file	PE EXE file
+   1 This file	Microsoft Windows native application
+   1 This file	USB file stealer
+   1 This module	Windows DLL file
+   1 This payload	MSIL
+   1 This sample	DLL
+   1 This sample	Stealer variant
+   1 This sort	functionality
+   1 This sort	redirector
+   1 Tibet	an internal problem
+   1 Tibet	security policy issues
+   1 Tibetan Uprising anniversary	a theme
+   1 Tibetan government	Tibetan organizations
+   1 Tibetan movement	a threat
+   1 Timer	checks
+   1 Titan Rain	strategic cyber espionage campaigns
+   1 Tooway	services
+   1 Tor	Jason Fritz free software
+   1 Tor	security tools
+   1 Tor	tools
+   1 Tor network	a mechanism
+   1 Trading	organizations
+   1 Tranchulas website	a client
+   1 Transmission Control Protocol	protocols
+   1 Transocean	contractors
+   1 Traps	measures
+   1 Trend Micro	BKDR  RPKNUF
+   1 Trend Micro	BKDR DUOJEEN
+   1 Trend Micro	BKDR SLOTH
+   1 Trend Micro	TROJ GUPD
+   1 Trend Micro	TROJ WIMMIE
+   1 Trend Micro	TROJ YAHOYAH
+   1 Trend Micro	research groups
+   1 TrendMicro	companies
+   1 Trojan	MobileOrder
+   1 Trojan	Trojan
+   1 Trojan	a standalone alternative
+   1 TrojanDownloader Win32	the computer
+   1 Trojans	methods
+   1 TrueCrypt	common computer utilities
+   1 Trump Hotels	the last year
+   1 Tuka	helpful assistance
+   1 Tunisia	Africa
+   1 Turkey	customers
+   1 Turkey Japan Denmark United	regions
+   4 Turkey	countries
+   1 Turkmenistan	countries
+   1 Turla	attackers
+   1 Twitter	Command
+   1 Twitter	IT companies
+   1 Twitter	RTB ads
+   1 Twitter	a backup C
+   1 Twitter	an intermediary
+   1 Twitter	cloud computing platforms
+   1 Twitter	several major technology companies
+   2 Twitter	companies
+   2 Twitter	legitimate web services
+   1 Type	samples
+   1 U	industries
+   1 U00P	C
+   1 UAC	other protection mechanisms
+   1 UCL compression	obfuscation code
+   1 UF6	valves
+   1 UID value	the value
+   1 UPX	packers
+   1 URL	Internet Web site
+   1 URL format	RAMNY
+   2 URL	Internet website
+   3 URL	this document
+   1 US	a potential adversary
+   1 US	countries
+   1 US English	default languages
+   1 US defence	factor authentication
+   1 US laboratories	institutions
+   1 USB	a new removable device
+   1 USB	infection vectors
+   1 USB	intelligence
+   1 USB sticks	drives
+   1 USB thumb	drives
+   2 USB	drives
+   1 Ukraine	Novorossiya
+   1 Ukraine	a sovereign nation
+   1 Ukraine	banks
+   1 Ukraine	locations
+   1 Ukraine	parts
+   1 Ukraine	republics
+   1 Ukraine	victims
+   2 Ukraine	the next target
+   2 Ukraine Crisis	a Test
+   4 Ukraine	countries
+   1 Ukrainian design advice	systems
+   1 Ukrainian government officials	targets
+   1 Ukrainian patriotism	subjects
+   1 UltraVNC	applications
+   1 Ultrasurf	Software
+   2 United	countries
+   2 United Arab Emirates	countries
+   1 Unknown Logger Public	this operation
+   1 Uroburos	a complete framework
+   1 Uroburos	a framework
+   1 Uroburos	incidents
+   1 User Account Control	features
+   1 VFS	module
+   1 VICEROY TIGER	adversaries
+   1 VIXEN PANDA	groups
+   1 VKontakte	sites
+   1 VLAN separation	ways
+   1 VMWare	JRE
+   1 VMware	a virtual environment
+   1 VMware	malware analysis
+   1 VMware drivers	a carrier
+   1 VNC	applications
+   1 VNC	desktop programs
+   1 VOHO	Microsoft
+   1 VOLUME	modifiers
+   1 VPN login	services
+   2 VPN configurations	the infected system
+   1 VPNs	AD authentication
+   1 VPNs	all remote access solutions
+   1 VPNs	security tools
+   1 VPNs	tools
+   1 VPSNOC	the 
+   1 VPSNOC	the entity
+   1 VPSNOC	the registrant organization
+   1 VTI	GmRemote sample
+   1 Valve Software	platforms
+   1 Venezuela	customers
+   1 Venezuela	points
+   1 Verdasys Digital Guardian	capable platform
+   2 Vietnam	countries
+   1 ViperRAT	threats
+   1 Virtualbox	malware analysis
+   1 VirusTotal	common malware repositories
+   1 VirusTotal some malware	services
+   1 Vkontakte	media networks
+   1 Vodafone	operators
+   1 Voice	sites
+   1 WCE	tools
+   1 WEBC2 variants	part
+   1 WEBCAMLIVE	command strings
+   1 WHOIS details	we11point
+   1 WSAStartup	APIs
+   1 Wannacry	a pet project
+   1 Warith	part
+   1 Wattan TV	Middle Eastern media organizations
+   1 Web application	services
+   1 Web application server	servers
+   1 Web browsing	functions
+   1 Web compromise	a vector
+   1 Web compromise	initial infection vectors
+   1 Web compromises	an initial infection vector
+   1 Web injects	added functionality
+   1 Web servers	the perimeter
+   5 Web	the primary threat vectors
+   5 Web compromise	an initial infection vector
+   1 WebDAV	the communication channel
+   1 Weevil	other sophisticated malware families
+   1 West	North Korea
+   1 West	South Korea
+   1 West	a whole
+   1 West	an incompatibility
+   1 West	analysts
+   1 WhatsApp	apps
+   1 White Paper International politics	Bloomberg news story
+   1 Wicked Rose	the ring
+   1 Wikileaks	hacktivists
+   1 WildFire	malware
+   1 Win32	multiple unrelated signature classifications
+   1 Win32	unwanted software
+   1 WinExe	tools
+   1 WinExec	API calls
+   1 WinNuke applications	online
+   1 WinRAR	common computer utilities
+   1 WinUtils	common computer utilities
+   1 Windows	Windows versions
+   1 Windows	a modern operating system
+   1 Windows	platforms
+   1 Windows	systems
+   1 Windows	this variable
+   1 Windows	versions
+   1 Windows Credential Editor	tools
+   1 Windows Credential Viewer	tools
+   1 Windows Defender	Wingbird
+   1 Windows Incident Management scripting	features
+   1 Windows Live	accounts
+   1 Windows Mobile	platforms
+   1 Windows NT	systems
+   1 Windows OS version	the client
+   1 Windows Vista	Windows
+   1 Windows binaries	a standard environment
+   1 Windows directory	netsvc
+   1 Windows executables	a compile timestamp
+   1 Windows server	Windows
+   1 Windows telnet server	other remote administration tools
+   2 Windows	Windows
+   1 Wool3n	members
+   1 Word	Microsoft Office application
+   1 Word	files
+   1 Word document	a decoy
+   1 WordPress	PHP scripting language
+   1 Working	InfoSec Analyst
+   1 XAgent	tools
+   1 XLS	Documents
+   1 XLS	common file types
+   1 XOR encryption	functionality code
+   1 XOR encryption scheme	Gen
+   1 XOR key	the zero bytes
+   1 XSS	web application security flaws
+   1 XTremeRAT	spyware
+   1 Xagent	independent malware
+   1 XtremeRat	addition RATs
+   1 YARA rules	indicators
+   1 YARA signatures	indicators
+   1 YDteam	hackers group name
+   1 Yahoo	a decoy page
+   1 Yahoo	accounts
+   1 Yahoo	cloud computing platforms
+   1 Yahoo	companies
+   1 Yahoo	media outlets
+   1 Yahoo	platforms
+   1 Yaser Balaghi	Microsoft Visual Studio
+   1 Yemen	points
+   1 YouTube	video uploading sites
+   1 ZIP	utilities
+   1 Zegost	other malware
+   1 ZxShell node	a server
+   1 a Chinese tool	password dumpers
+   1 a German gas company	a test
+   1 a OneDrive cloud storage drive	a network drive
+   1 a South Korean government agency	organizations
+   1 a bank	a webpage
+   1 a batch file	files
+   1 a binary channel	protocols
+   1 a binder Trojan	DropIt
+   1 a browser	part
+   1 a browser	s client side software
+   1 a browser	times
+   1 a bugged phone call	data
+   1 a business	Anyone
+   1 a chance	partnership
+   1 a chief security	management
+   1 a colleague	the recipient
+   1 a comment field	web form
+   1 a company executive	the recipient
+   1 a complete failure	China
+   1 a component	a computer security tool
+   1 a compromised system	a proxy
+   1 a computer security firm	a Russian gang
+   1 a computer system	Tibetan institutions
+   1 a concatenated form	the phrase
+   1 a contractor	unknowing third party
+   1 a conversion dialog	a result
+   1 a custom	advanced protection method
+   1 a custom	advanced protection techniques
+   1 a custom network	offensive network reconnaissance tools
+   1 a cyberattack	something
+   1 a data leak	CEC
+   1 a decoy document	components
+   1 a deterrent	blackmail
+   1 a different hash	the configuration data changes
+   1 a disadvantage	the camouflage
+   1 a distinct form	attack
+   1 a document icon	looks
+   1 a downloaded data file	tasks
+   1 a downloaded database file	a scheduled task
+   1 a dozen	commands
+   1 a driver	a minifilter
+   1 a driver	program
+   1 a duck	quacks
+   1 a fake conference page	a lure
+   1 a fake tool	the opposition
+   1 a few antivirus vendors	Gamaredon
+   1 a fi lename string	a parameter
+   1 a file	a result
+   1 a file present	a string
+   1 a financial incentive	imperatives
+   1 a flag	checks
+   1 a form	CGI path consisting
+   1 a form	Japanese ritual suicide
+   1 a form	authentication
+   1 a form	conflict
+   1 a form	cyberwar
+   1 a form	distraction the malware
+   1 a form	emotional catharsis
+   1 a form	encryption
+   1 a form	extortion
+   1 a form	folding
+   1 a form	self
+   1 a form	â
+   1 a function stub	remote thread
+   1 a gas pipeline	Iran
+   1 a gas pipeline	a specific industrial control system
+   1 a government	actor
+   1 a graphical user interface	functions
+   1 a group	APT
+   1 a hotel jobs	victims
+   1 a kernel exploit	exploits
+   1 a kernel mode driver	drivers
+   1 a key validity check	some important check
+   1 a keylogger	modules
+   1 a leader	leaders
+   1 a list	Russia
+   1 a listing	a year
+   1 a load	a dynamic library
+   1 a localhost address	backup
+   1 a log	IT Infrastructure
+   1 a malicious document	the initial lure
+   1 a malicious file	an e
+   1 a massive centralization	s leadership
+   1 a massive subversion	activities
+   1 a message queue	an array
+   1 a modern fuel service station	a parallel
+   1 a module	lateral movement tools
+   1 a mutex	the file
+   1 a new process	another user
+   1 a news report	accessible material
+   1 a news website	a popular website
+   1 a nuclear warhead	a satellite
+   1 a number	campaigns
+   1 a particular custom ICS	another source
+   1 a period	occasions
+   1 a picture	the flu
+   1 a plethora	distinct malware toolsets
+   1 a plot	messages
+   1 a possible exploitation campaign	financial threat campaigns
+   1 a private network	a platform
+   1 a project	input
+   1 a prominent Egyptian lawyer	a lure
+   1 a proxy	this mode
+   1 a registry run key	load point
+   1 a remote access Trojan	an untrusted application
+   1 a remote system	a result
+   1 a reply	a binary module
+   1 a rootkit	stealth
+   1 a screenshot	info
+   1 a script	malicious content
+   1 a series	Cyber Arabs
+   1 a short form	the path
+   1 a significant risk	the existence
+   1 a similar capacity	BACKBEND
+   1 a simple task	the ecosystem
+   1 a single actor	part
+   1 a single cloud service	the backbone
+   1 a single computer	points
+   1 a single entity	the activity
+   1 a smart card	a second factor
+   1 a solution	countries
+   1 a sort	a fusion
+   1 a state actor	an advanced threat
+   1 a strategic messaging outlet	the actual attacker
+   1 a string	input
+   1 a system	a whole
+   1 a system compromise	CEC
+   1 a target IP	measures
+   1 a targeted attack	t look
+   1 a targeted form	phishing
+   1 a test	checks
+   1 a thorough technical analysis	the first wave
+   1 a time stamp	status messages
+   1 a timeline	the threat
+   1 a transferred file	anything
+   1 a transformation	technologies
+   1 a two	Chinese business hours
+   1 a user	Syrian
+   1 a user	an update
+   1 a victim system	a redundancy infection
+   1 a visitor	a target
+   1 a vote	adoption
+   1 a watering hole attack	methods
+   1 a web shell	a primary backdoor
+   1 a webcam	devices
+   1 a webserver	Internet connectivity
+   1 a while	topics
+   1 a worm	the network
+   2 a directory	the system
+   2 a form	directory assistance
+   2 a form	espionage
+   1 abilities	the original version
+   1 acceleration	performance parameters
+   1 access	Android permissions
+   1 access	hosts
+   1 access	reasons
+   1 access	security tools
+   1 access	systems
+   1 access Twitter	a background process
+   2 access	Google Apps services
+   1 account information	data
+   1 account names	capture online banking credentials
+   1 account numbers	credentials
+   1 accountancy firms	services
+   1 acquisition	states
+   1 act	a console client
+   1 act	a starting point
+   1 acting	a backdoor
+   1 acting	a headquarters component
+   1 actions	hackers
+   1 actions	the lawful protection
+   2 actions	function number
+   1 activities	crimes
+   1 activity groups	researchers
+   1 actors	Uroburos
+   1 actors	actors
+   1 actors	all remote access solutions
+   1 actors	deception
+   1 actors	part
+   1 acts	a back door
+   1 acts	a launcher
+   1 acts	a loader
+   1 acts	a second decoy
+   1 acts	the campaign code
+   1 acts	the main load
+   1 addition	C
+   1 addition	servers
+   1 addition	variants
+   1 additional form	provocation
+   1 additional functionality	the increase
+   1 additional malware	an attachment
+   1 additional payload applications	system
+   1 address	Proxy settings
+   1 address	information
+   1 address Decoy	details
+   1 address books	data
+   1 administration tools	tools
+   1 administrative police	directorates
+   1 administrator accounts	accounts
+   1 administrators	the domain accounts
+   1 adobe	names
+   1 adult sites	websites
+   1 advanced knowledge	Opposition
+   1 advanced wielding	Russian submarine builders
+   1 adversaries	adversaries
+   1 advertisements	the user
+   2 aerospace	areas
+   7 aerospace	industries
+   1 affairs personnel	journalists
+   1 agencies	organizations
+   1 aggressions	events
+   1 ahzab	aliases
+   1 air	travel
+   1 airline security	areas
+   1 airlines	organizations
+   1 airports	stocks
+   1 all sort	mischief
+   1 an 	the ongoing war
+   1 an Ethiopian opposition group	bait
+   1 an active presence	a moderator
+   1 an advertisement	Russia
+   1 an aggressor	a target
+   1 an aid coordinator	operations
+   1 an air	another victim computer
+   1 an ambush	attacks
+   1 an analysis	use
+   1 an attack codeset	offensive network reconnaissance tools
+   1 an effort	elections
+   1 an employee	human error
+   1 an encrypted format	a string resource
+   1 an encrypted resource entry	an encrypted binary array
+   1 an example	samples
+   1 an exploit	exploits
+   1 an external target	part
+   1 an incident	Cyber attacks
+   1 an incomplete function pointer table	interface
+   1 an increase	this transition
+   1 an individual	a likely culprit
+   1 an individual bearing the same name	the application
+   1 an initial value	an input argument
+   1 an innocent backup utility	the word
+   1 an operation qualifies	attack
+   1 an organised way	part
+   1 an organization	a phishing campaign
+   1 an original	BlackWorm tool
+   1 an oversight	i t
+   1 an overview	documents
+   1 an undisclosed oil	industries
+   1 an upgrade	Looks
+   2 an audio file	a decoy
+   1 analysis paper	C
+   1 analysis tools	resources
+   1 analytical context	threat intelligence
+   1 anchors	servers
+   1 anniversary	a theme
+   1 anomalies	indications
+   1 another country	countries
+   1 another form	cyber security attacks
+   1 another form	executable file
+   1 answer	a permanent rule
+   1 antimalware	measures
+   1 antimalware	part
+   1 antivirus	Swisyn
+   1 antivirus	automated security tools
+   1 antivirus	controls
+   1 antivirus	measures
+   1 antivirus	methods
+   1 antivirus engine	Rootkit
+   1 antivirus software	security products
+   1 antivirus software	the client
+   1 any analogy	World War C
+   1 any form	action
+   1 any form	state sponsorship
+   1 any form	storage
+   1 any image files	the page
+   1 any malicious module	LoadLibraryW
+   1 any other specific software	times
+   1 any service packs	windows version
+   1 any sort	civic action
+   1 any sort	cohesive manner
+   2 any form	high
+   1 anything	images
+   1 app author	head
+   1 appear	separated rundll
+   1 application whitelisting	ways
+   1 applications	a vector
+   1 applications	components
+   1 armed force	a foreign policy tool
+   1 arrest	forms
+   1 arrests	sanctions
+   1 assassination attempts	terrorist activity
+   1 assesses	the security authorities
+   2 asset freezes	sanctions
+   1 association	content
+   1 attachment	a legitimate message
+   1 attack	the first one
+   1 attackers	C
+   1 attackers	Moonlight
+   1 attackers	PHP scripting language
+   1 attackers	a clue
+   1 attackers	a component
+   1 attackers	a launchpad
+   1 attackers	a slang term
+   1 attackers	an entry point
+   1 attackers	an intermediary point
+   1 attackers	investigators
+   1 attackers	servers
+   1 attacks	HEUR Trojan
+   1 attacks	Shockwave Flash
+   1 attacks	a component
+   1 attacks	a lengthy operation history
+   1 attacks	a new weapon
+   1 attacks	a silver bullet
+   1 attacks	a single attacker
+   1 attacks	another attack vector
+   1 attacks	attacks
+   1 attacks	campaigns
+   1 attacks	consumers
+   1 attacks	cybercriminals
+   1 attacks	defenders
+   1 attacks	online
+   1 attacks	the contact email address
+   1 attacks	the initial penetration vector
+   1 attacks	the number
+   2 attacks	a form
+   1 attempts	malicious behavior
+   1 audio capture	commands
+   1 author metadata	the clean document
+   1 authors	Chinese actor
+   1 authors	an attempt
+   1 authors	an evasion method
+   1 authors Stephen Doherty	Security Response Manager
+   1 automatic remediation	responses
+   1 automation	a service
+   1 backdoor	a persistent service
+   1 backdoors	Backdoor
+   1 backhaul	IO data
+   1 banking	activities
+   1 banking	data
+   1 banking	services
+   1 banking	threats
+   1 banking information	personal information
+   1 banking trojans	malware
+   1 banks	Financial organizations
+   1 banks	financial industry
+   1 banks	locations
+   1 banks	organisations
+   1 banks	the finance industry
+   1 batch scripting	features
+   1 battle plans	secrets
+   1 bees	computers
+   1 beginnings	a tool
+   1 behavioral analysis	proactive detection methods
+   1 behaviour	disinformation
+   1 bid exploration data	proprietary information
+   1 bills	debts
+   1 binaries	Win32
+   1 biotech	areas
+   1 birthdate	details
+   1 blocks	packets
+   1 blog	words
+   1 blog sites	intermediaries
+   1 blogs	available free web sources
+   1 blogs	services
+   1 blogs	video uploading sites
+   1 boasts Telenor	a client
+   1 bombings	terrorist activity
+   1 botID	parameter
+   1 both official work accounts	major global news outlets
+   1 botnets	cyber attacks
+   1 botnets	types
+   1 brand	handset metadata
+   2 breach readiness	issues
+   1 browser	details
+   1 browser fingerprinting	actions
+   1 browser plugins	Internet data
+   1 buffer	exploits
+   1 buffer overflows	techniques
+   1 bug	years
+   1 business contracts	data
+   1 business plans	intellectual property
+   1 business plans	valuable intellectual property
+   1 businesses	victims
+   1 bytes	initial handshake
+   1 bytes	integers
+   1 bytes	result
+   1 bytes	the format differs
+   1 bytes	the header
+   1 bytes	the header RHOST X
+   1 bytes	the size
+   1 calendar data	data
+   1 call state	network metadata
+   1 campaign	samples
+   2 campaign identifiers	artifacts
+   1 capabilities	a 
+   1 capabilities	a control
+   1 capabilities	a means
+   1 capability	a reverse shell
+   1 capability	standard
+   1 capture messages	materials
+   1 capture network traffic	information
+   1 cars	US electronics
+   1 cartoons	Arabic text
+   1 case studies	instances
+   1 cases	testimony
+   1 cell phone IMEI	systems
+   1 certificate fields	SNI field domain name
+   1 changes	appropriate
+   1 character	a payload run type
+   1 character	a separator
+   1 characterizations	the fundamental first step
+   1 characters	the register
+   1 child pornography	activities
+   1 child pornography	contraband data
+   1 classification	a stand
+   1 classified government networks	networks
+   1 cleanroom molding	manufacturing processes
+   1 clearance documents	sensitive information
+   1 cleartext byte	the key
+   1 client	shellcode
+   1 client protection	tasks
+   1 cnmilit	The weaponised document sites
+   1 code	a specialized assembly
+   1 code	features
+   1 code execution	components
+   1 code flow obfuscation	malware
+   1 code injection	tactics
+   1 cognitive dissonance	elements
+   1 com	the location
+   1 command	phases
+   1 command parsing	purposes
+   1 command shell interaction	features
+   1 commands	Administrator
+   1 commands	Babar
+   1 commands	Detatch Checkbox Specifies
+   1 commands	administrator
+   1 commands	data
+   1 commands	root
+   1 commercial software	a service
+   1 common command	parameters
+   1 common news	individuals
+   1 communication	purposes
+   1 communications	operations
+   1 communications	threat model
+   1 companies	defense sectors
+   1 companies	lures
+   1 companies	stocks
+   1 company Y	a client
+   1 comparison	IO data
+   1 complex	the codebase
+   1 components	The underlying infrastructure
+   1 components	variants
+   1 compression	versions
+   2 compression	functionality
+   2 compression	methods
+   1 compromised infrastructure	suspected Russian cyber operations
+   1 computer	a half
+   1 computer	a proxy server
+   1 computer PASSWORDS Brother	mp
+   1 computer antivirus	protection measures
+   1 computer name	contains information
+   1 computer name	gathers system information
+   1 computer name	information
+   1 computer name	the client
+   1 computer network operations	an integral part
+   1 computer restart DustySky	Trojan backdoor
+   1 computer security	Concepts
+   1 computer technology	certain technology
+   1 computer viruses	illegal computer access
+   2 computer name	system information
+   1 computers	US electronics
+   1 computers	limited
+   1 computers	networks
+   1 computers	part
+   1 computers	resources
+   1 computers	the internal network
+   1 conamail	domains
+   1 concentrations	a much wider geographic area
+   1 conduct	forms
+   1 conference	bait Exploit
+   2 conference	bait
+   1 conferences	social engineering bait
+   1 confidential financial data	valuable information
+   1 confidential information	deals
+   1 config	X
+   1 configuration	strings
+   1 configuration data	variant A
+   1 constants	every string
+   1 construction companies	organizations
+   1 consultants	a business deal
+   1 consultants companies	parties
+   1 contact details	Strategic information
+   1 contact lists	data
+   1 contact lists	intellectual property
+   1 contact lists	valuable intellectual property
+   1 contacts	materials
+   1 continued use	a payload
+   1 contractors	factor authentication
+   1 contractors	the target organization
+   1 control	RPC
+   1 control	a text file
+   1 control	phases
+   1 control centers	tweets
+   1 control server	a text file
+   1 control server	part
+   1 controllers	servers
+   1 controllers	types
+   2 controls	ActiveX controls
+   1 conventions	OnionDuke
+   1 cookies	all header information
+   1 cookies	content
+   1 cookies	the user agent
+   1 copious bandwidth	resources
+   1 copy file	commands
+   1 core DustySky Core	Trojan backdoor
+   1 corporations	organizations
+   1 corruption	crimes
+   1 corruption	legitimacy
+   1 counterfeit currency production	terrorist activity
+   1 counterintelligence organisations	anyone
+   1 counters	analytics
+   1 countries	countries
+   1 countries	organizations
+   1 countries	part
+   1 country	system information
+   1 country	the chief
+   1 creation	a system file
+   1 creative phishing	effective compromise
+   1 credential phishing	part
+   1 credentials	Data
+   1 credentials	a platform
+   1 credentials	an elite hacker group
+   1 credentials	information
+   1 credit card details	sensitive information
+   1 credit card fraud	activities
+   1 credit card fraud	the world
+   1 credit card numbers	systems
+   1 credit card theft	high bandwidth
+   1 crime	actors
+   2 crimes	activities
+   1 criminal gain	hackers
+   1 critical infrastructure	businesses
+   1 critical infrastructure	domains
+   1 critical infrastructure	part
+   1 critical infrastructure	sectors
+   1 critical infrastructure components	communications
+   1 cryptcat	world
+   1 crypting	obfuscation
+   1 cryptocurrencies	instruments
+   1 cryptocurrency exchanges	companies
+   1 cryptocurrency markets	currency markets
+   1 current code page File	system information
+   1 custom file transfer tools	the victim network
+   1 custom objects	data structures
+   1 customers	organizations
+   1 customers	stakeholders
+   2 cve	Microsoft Internet Explorer
+   1 cyber	a separate domain
+   1 cyber	a tool
+   1 cyber	domains
+   1 cyber	the medium
+   1 cyber	warfare
+   1 cyber attacks	a tool
+   1 cyber attacks	a way
+   1 cyber attacks	force
+   1 cyber attacks	tools
+   1 cyber capabilities	part
+   1 cyber defense matures	public awareness
+   1 cyber defense operations	the new adaptive security posture
+   1 cyber espionage	each term
+   1 cyber espionage attacks	command
+   1 cyber security	security
+   1 cyber security strategies	the threat evolves
+   1 cyber spillover	something
+   1 cyber warfare	a distinct form
+   1 cyber warfare	an asymmetric tactic
+   1 cyber warfare program	the regime
+   1 cyberattacks	a weapon
+   1 cybercriminals	a source
+   1 cybercriminals	stripes
+   1 cyberespionage	cases
+   1 cybersecurity incidents	any suspicious activity
+   1 cyberspace	the strategic fulcrum
+   1 cyberspace functions	the main medium
+   2 cyberspace	a strategic domain
+   1 cyberspies	tensions
+   1 d	C code
+   1 d	code
+   1 d0ta010	accounts
+   1 damanhealth	domains
+   1 data	a result
+   1 data	a token
+   1 data	belonging
+   1 data	close
+   1 data	the victim host
+   1 data activity	network metadata
+   1 data blobs	a file
+   1 data breaches	crisis events
+   1 data destruction	CEC
+   1 data set	C2 IPs
+   1 data state	network metadata
+   1 data the same way	the former version
+   1 data warehouses	types
+   2 data protection	issues
+   1 database server	servers
+   1 date	conditions
+   1 date none	attacks
+   1 dates	Legspin backdoor
+   1 datestamps	data
+   1 day	criteria
+   1 decoy	files
+   1 defacements	Ukraine
+   1 defacements	a nuisance
+   1 defacements	incidents
+   1 defence data	China
+   1 defense	Mitigation strategies
+   1 defense	areas
+   1 defense	industries
+   1 defense attaches	Soviet Union
+   1 defense contractors	organizations
+   1 delete file	file management
+   1 deliberate targeting	capabilities
+   1 demonstrations	forms
+   1 denial	purposes
+   1 depth	full comprehension
+   1 descriptions	manufacturing procedures
+   1 design documents	intellectual property
+   1 design specifications	documents
+   1 destructive malware	North Korea
+   1 details	Gather system information
+   1 detection	W32
+   1 detection	plugins
+   1 detection protection mechanisms	an anti
+   2 detects CloudDuke	Trojan W32
+   1 deter deconstruction	nothing
+   1 developers	Servant Shell
+   1 development	China
+   1 development	industries
+   1 development framework	part
+   1 development process	rapid succession
+   1 device	SIM state
+   1 device drivers	level system code
+   1 device software version	network metadata
+   1 different attack groups	the diagram
+   1 different group names	a false flag
+   1 different special handle values	commands
+   1 direct delivery	an attachment
+   1 directory	Facilitates file system access
+   1 directory	Facilitates filesystem access
+   1 disappearances	abuses
+   1 disinformation	attacks
+   1 disinformation	modern information operations
+   1 disk	parameters
+   1 disk space	the computer
+   1 disparate	issues
+   1 displacement James Fisher Aerospace	performance parameters
+   1 display	handset metadata
+   1 dissidents	Soviet Union
+   1 distributed denial	cyber techniques
+   1 distribution kits	the gaming content
+   1 document	a decoy
+   1 document	details
+   1 document capture	features
+   1 document exfiltration	components
+   1 document sharing	the target organization
+   1 document viewers	applications
+   1 documents	a delivery mechanism
+   1 documents	attachments
+   1 documents	computer
+   1 documents	data
+   1 documents	droppers
+   1 documents	files
+   1 documents	files This module
+   1 documents	steals documents
+   1 documents	victim data
+   1 domain name	information
+   1 domain name registration data	attribution
+   1 domain names	APT1 indicators
+   1 domain names	s operation
+   1 domains	C2 servers
+   1 domains	command
+   1 domains	fallbacks
+   1 domains	indicators
+   1 domains	infrastructure
+   1 domains	pivot points
+   1 domestic production	a means
+   1 domestic stability	factors
+   1 dots	characters
+   1 dots	filler
+   1 doubles	a current state record
+   1 download network traffic	innocuous user activity
+   2 download	tools
+   1 downloaders	utilities
+   1 downloading	functions
+   1 downloading	systems
+   1 downloading files	functions
+   1 downloads	a means
+   1 dozen	companies
+   1 dream	themes
+   1 driver	components
+   1 drivers A1D210B76D5EDA0FA165AFEF79C366FA Note	samples
+   1 drives	a means
+   1 drives	drives
+   1 droppers	utilities
+   1 drug	challenges
+   1 drug smuggling	activities
+   1 drug trafficking	crimes
+   1 duia	Dynamic DNS provider
+   1 dynamic link library	executable file
+   1 dynamic link library a special sort	program file
+   1 dynamic string reassembly	obfuscation techniques
+   1 each attack	a method
+   1 ease	attackers
+   1 eastward expansion	a threat
+   1 economic espionage	crisis events
+   1 economic pressure	tools
+   1 economics	issues
+   1 education	other defense mechanisms
+   1 education campaigns	the community
+   1 effective defense	services
+   1 elections	tensions
+   1 electricity	stocks
+   1 electronic warfare	tools
+   1 electronics	systems
+   1 email	a data exfiltration method
+   1 email	an attack vector
+   1 email	an initial infection vector
+   1 email	communications mechanism
+   1 email	data
+   1 email	sensitive information
+   1 email	services
+   1 email	systems
+   1 email	the number
+   1 email address	tasks
+   1 email address	things
+   1 email addresses	the keylogger records data
+   1 email content	the phishing lure
+   2 email	a vector
+   2 email	an attachment
+   5 email	the primary threat vectors
+   1 emails	an archive ASERT
+   1 emails	forms
+   1 emails	infrastructure
+   1 emails	intellectual property
+   1 emails	items
+   1 emails	sensitive information
+   1 emails	valuable intellectual property
+   3 emails	data
+   1 embassies	the world
+   2 embassies	entities
+   2 embassies companies	institutions
+   1 employees	data
+   1 employees	the target organization
+   1 employment history	content
+   1 employment information	items
+   1 encryption	versions
+   1 encryption R	issues
+   1 encryption keys	features
+   1 encryption keys	strings
+   2 encryption	functionality
+   2 encryption	methods
+   2 encryption keys	the infected system
+   1 endpoint solution	products
+   1 endpoint threat detection tools	part
+   2 energy	sectors
+   3 energy	industries
+   1 enterprise firewalls	measures
+   1 entities	attack targets
+   1 enumeration	the target system
+   1 environment checks	detection
+   1 environments	a result
+   1 espionage	capabilities
+   1 espionage	objectives
+   1 espionage	purposes
+   1 etc	similar kind
+   1 example	a good security practice
+   1 example	frames
+   1 example	payloads
+   1 example code	another source
+   1 examples	data
+   1 exceptions	the comprehensive application
+   1 exclusiveness	assets
+   1 executables	actions
+   1 execute file	file management
+   1 execution	systems
+   1 execution	the infostealer
+   1 executions	other retaliation
+   1 executives	entities
+   1 executives	stakeholders
+   1 exfiltration	phases
+   1 exhortations	a malicious email
+   1 exile groups	actors
+   1 exiles	dissidents
+   1 existence	targeted espionage
+   1 exploit repurposing	other unexpected threat actor interactions
+   1 exploitation	phases
+   1 exploits	a means
+   1 exploits	an infection vector
+   1 exploits	hxxp
+   1 exploits	tactics
+   1 exploits	the actor
+   1 exploits	the same time
+   1 export prohibitions	sanctions
+   2 export	msvci
+   1 exports the same function	the legitimate msi
+   1 extensive fingerprinting	measures
+   1 eyes	themes
+   1 fact	Sunday
+   1 fact	a sign
+   1 fact the file	Windows Screensaver
+   1 factor	a default
+   1 fake news apps	apps
+   1 family members	dissidents
+   1 family members	the target
+   1 fascinationwith cyber attacks	a cost
+   1 favor	threat trackers
+   1 fields	diverse
+   1 figures	Soviet Union
+   1 file	BASH script sh
+   1 file	DarkShell DDOS trojan
+   1 file	Flash video file
+   1 file	Trojan
+   1 file	an integer number
+   1 file	commands
+   1 file	cyberattacks
+   1 file acts	the installer
+   1 file extension	conditions
+   1 file harvesting	tasks
+   1 file listing	components
+   1 file manager	commands
+   1 file names	the phishing lure
+   1 file servers	servers
+   1 file time matching	functionality
+   1 file transfer	functionality
+   1 file transferring	RATs
+   1 file transfers	RATs
+   2 file explorer	operations
+   2 file management	RAT functionality
+   2 file size	files
+   1 filenames	Butterfly attackers
+   1 filenames	locations
+   1 filenames	things
+   1 files	Cpu
+   1 files	PoS malware
+   1 files	SPACESHIP
+   1 files	attachments
+   1 files	bait
+   1 files	engineering files
+   1 files	image
+   1 files	industrial control systems
+   1 files	information
+   1 files	input
+   1 files	malware
+   1 files	records
+   1 files	services
+   1 files	the attack
+   1 files IPs	the standard
+   2 files	WS
+   5 files	the primary threat vectors
+   1 finance	sectors
+   1 finance	topics
+   1 financial crime	operations
+   1 financial information	sensitive information
+   1 financial theft	motivations
+   1 find file	file management
+   1 findings	an indictment
+   1 fingerprints	evidence
+   1 fire support systems	technologies
+   1 fires	events
+   1 firewall configuration changes	interest
+   1 firewalls	basic security measures
+   1 firewalls	network devices
+   1 firewalls	traditional security defenses
+   1 first	platforms
+   1 flash exploit	HEUR Exploit
+   1 floods	events
+   1 fly	themes
+   1 folder	iexplore
+   1 folder content	email attachment Validate
+   2 foreign	Clinton presidency
+   2 foreign policy	desirable national policy information
+   1 forensics	the only method
+   1 form grabber	Features
+   1 formulas	intellectual property
+   1 forums	an application
+   1 forums	channels
+   1 forums	watering holes
+   1 foundations	NGO 
+   1 fourteen Notable Activity	terminating processes
+   1 fraggle attacks	attacks
+   1 fraud	motivations
+   1 free web hosting services	the free hosting servers
+   1 freedom	rights issues
+   1 frequency converter drives	slaves
+   1 friends	the target
+  42 full indicator	details
+   1 function	a basic reconnaissance tool
+   1 function	a work environment
+   1 function	labels
+   1 function	privateers
+   1 functionality	time
+   1 functions	a parameter
+   1 functions	parts
+   1 functions	samples
+   1 funds	Financial organizations
+   1 games	a medium
+   1 games	elements
+   1 gas	stocks
+   1 gas company	industries
+   1 gas industry	targets
+   1 gas pipelines	facilities
+   1 gas pipelines	multiple industrial control industries
+   1 gas producers	energy companies
+   1 geometry	a necessary skill
+   1 government	Myanmar
+   1 government	groups
+   1 government	operators
+   1 government	organisations
+   1 government	organizations
+   1 government	sectors
+   1 government	targets
+   1 government	years
+   1 government agencies	entities
+   1 government ministries	organizations
+   1 government networks	locations
+   1 government officials	Ukrainians
+   2 government ministries	entities
+   1 governments	Soviet Union
+   1 governments	anyone
+   1 governments	organisations
+   1 governments	organizations
+   1 governments	stakeholders
+   1 governments	the adversary
+   2 governments	victims
+   1 gradual irrelevance	people
+   1 great concern	the first stage attack
+   1 green	Year Plan
+   1 group management policies	information
+   2 groups	individuals
+   2 gsecdump	tools
+   1 guidelines	information
+   1 guohui	words
+   1 hacker profiles	s operation
+   1 hacker tactics	suspected Russian cyber operations
+   1 hackers	part
+   1 hacking tools	available software
+   1 hacking tools	content
+   1 hacks	methods
+   1 hacktivism	a commonplace element
+   1 hacktivist	actors
+   1 hacktivists	years
+   1 half	much malware
+   1 handshake	HTTP
+   1 hardware	a means
+   1 hardware	handset metadata
+   1 harsh sentencing	sanctions
+   1 hashes	indicators
+   6 healthcare	industries
+   1 heart	TeamSpy
+   1 heating	technologies
+   1 heavy use	applications
+   1 hermeneutic endeavour	researchers interpret sparse
+   1 hexadecimal representation	a string
+   1 high infection rates	Figure
+   1 high level	victims
+   1 high level government	ICS construction
+   1 high precision manufacturing	industries
+   1 high quality output	part
+   1 hinder reverse engineering	means
+   1 home	network devices
+   1 home routers	devices
+   1 hops	resources
+   1 host name	system information
+   1 hostname	Collect system information
+   1 hosts	C
+   1 hosts	command
+   1 hours	the hacker group
+   1 http	Middle Eastern media organizations
+   1 http	connectback looks
+   1 https	example something
+   1 human trafficking	challenges
+   1 hunting	an active defense
+   2 hxxp	servers
+   1 iDirect	services
+   1 iOS	platforms
+   1 icon insertion	configuration settings
+   1 identity	the malware author
+   1 identity theft	activities
+   1 illegal access	issues
+   1 illegal drug manufacturing	terrorist activity
+   1 image	words
+   1 image files	the phishing lure
+   1 images	files
+   1 impersonation	local user
+   1 implementation	code
+   1 implements SSL	Yahoo
+   1 important detail	the forensic value
+   1 imprisonment	UAE
+   1 improved communication	technologies
+   1 incident handling	activities
+   1 incident response	services
+   1 independent sensing	IO data
+   1 indicators	fact
+   1 indicators	s operation
+   1 indicators	threat intelligence
+   1 individuals	Organizations
+   1 individuals	spies
+   1 industrial control networks	critical infrastructure firms
+   1 industry	a whole
+   1 infected system the payload	PE32
+   1 infection	a way
+   1 infection	incidents
+   1 infections	a whole
+   2 info leakage	vulnerabilities
+   1 information	a matter
+   1 information	a result
+   1 information	authority
+   1 information	data theft
+   1 information	error
+   1 information	group
+   1 information	parameters
+   1 information	technology companies
+   1 information	the planned hack
+   1 information	use
+   1 information	victims
+   1 information assets	targets
+   1 information campaigns	Ukraine
+   1 information gathering	actions
+   1 information gathering	purposes
+   1 information gathering	tasks
+   1 information leaks	incidents
+   1 information operations	hybrid warfare
+   1 information operations	tools
+   1 information security	Concepts
+   1 information security officer	management
+   1 information security topics	content
+   1 information technology	areas
+   2 information	a weapon
+   1 informationization	the goal
+   1 infrastructure	Ukrainian cyberspace
+   1 infrastructure	resources
+   1 infrastructure components	factors
+   1 initiative	DHS effort
+   1 inline	comments
+   1 innocent game	a force multiplier
+   1 inquiry	a whole
+   1 insertion	classic obfuscation techniques
+   1 insertion	techniques
+   1 insertion	the phakeddb database
+   1 installation	an unused service
+   1 installers	engineering files
+   1 installers	installers
+   1 installing	systems
+   1 installs Emissary	a service
+   1 instance	PlayfullDragon
+   1 instance	drivers
+   1 instances	APT groups
+   1 instant messaging	other communication mechanisms
+   1 institutions	partners
+   1 integers	types
+   1 intellectual property	Strategic information
+   1 intellectual property	access sensitive information
+   1 intellectual property	data
+   1 intellectual property theft	purposes
+   1 intelligence	part
+   1 intelligence services	profiles
+   1 intended usage	a tool
+   1 interest	overlaps
+   1 interest	the beacon
+   1 interesting	this case
+   1 interesting malware	part
+   1 internal infrastructure	s operation
+   1 internal memoranda	data
+   1 internal network	C
+   1 internal tool	conventions
+   1 international engagement	activities
+   1 international humanitarian law	international law
+   1 international law	a use
+   1 intimidation	Ukraine
+   1 intrusion detection systems	protection measures
+   1 investigations	activities
+   1 investor relations	services
+   1 invitations	recipient
+   1 ipconfig	commands
+   1 jail time	forms
+   1 jewelry	attributes
+   1 jewelry	goods
+   1 judicial police	directorates
+   1 kaveh	aliases
+   1 kernel	names
+   1 kernel mode drivers	modules
+   1 key logging	RATs
+   1 key logging	tasks
+   1 keyboard	intelligence
+   1 keylogger	commands
+   1 keyloggers	information gathering tools
+   1 keylogging	functions
+   1 keylogging	share the same basic functionality
+   1 keys	custom activity records
+   2 keys	keys
+   1 keystroke logging	functionalities
+   1 keystrokes	attackers
+   1 keyword	censorship
+   1 keywords	this operation
+   1 kill processes	actions
+   1 kinds	events
+   1 kits	means
+   1 language	system information
+   1 language barriers	countries
+   1 language settings	Clues
+   1 lateral movement	actions
+   1 lateral movement	attacker methodologies
+   1 lateral movement	phases
+   1 law	services
+   1 law enforcement	anyone
+   1 law enforcement	entities
+   1 law firms	a business deal
+   1 law firms	parties
+   1 leaks	methods
+   1 legal counsel	services
+   1 legitimacy	a document
+   1 legitimate filename	a decoy
+   1 legitimate news	websites
+   1 legitimate news articles	lures
+   1 legitimate remote access software	components
+   1 legitimate traffic	indicators
+   1 length	requirements
+   1 li32	methods
+   1 libaudio	files
+   1 links	belonging
+   1 links	download
+   1 links	files
+   1 list	measures
+   1 lists	data structures
+   1 lists	recipient
+   1 lists VPSNOC	the registrant organization
+   1 load	performance parameters
+   1 loaders	components
+   1 local administrator credentials	a method
+   1 local host acts	a command
+   1 localhost	a means
+   1 location	internal information
+   1 logical measure	attackers
+   1 logistics	directorates
+   1 logistics support	sensitive information
+   1 logs harder	C
+   1 lookouts	elements
+   2 loss	impacts
+   1 losses	an outcome
+   1 mac	systems
+   1 macOS	platforms
+   1 machine serves	a network pivot
+   1 machines	C
+   1 macros	a delivery method
+   1 macros	features
+   1 magnetic card systems	physical security devices
+   1 mail	the firewall
+   1 mail	words
+   1 mail servers	systems
+   1 maintenance	years
+   1 malicious PowerPoint attachments	means
+   1 malicious code	an effort
+   1 malicious module	system service HKLM
+   1 malicious software	others
+   1 malicious traffic	Internet Explorer
+   1 malware	Backdoor
+   1 malware	a 
+   1 malware	a legitimate file
+   1 malware	a mechanism
+   1 malware	a software deployment task
+   1 malware	an attachment
+   1 malware	computers
+   1 malware	documents
+   1 malware	elements
+   1 malware	files
+   1 malware	indicators
+   1 malware	resources
+   1 malware	tactics
+   1 malware	techniques
+   1 malware	threats
+   1 malware	years
+   1 malware architecture	Prikormka malware
+   1 malware code	part
+   1 malware samples	data
+   1 malware samples	indicators
+   1 malware samples	suspected Russian cyber operations
+   1 malware version number	data
+   2 malware	activities
+   1 malwares	weapon
+   1 management systems	place
+   1 manipulating processes	functions
+   1 manual online hacking	means
+   1 manufacturer	handset metadata
+   1 manufacturers	organizations
+   1 manufacturing	activities
+   1 manufacturing	part
+   1 many other security vendors	an automatic test system
+   1 maps	elements
+   1 maps	valuable information
+   1 maritime agencies	entities
+   1 marketing campaigns	operations
+   1 masquerades	a copy
+   1 masquerades	a downloader
+   1 masquerades	sent
+   1 mass graves	the Ukrainian army
+   1 means	cyber attacks
+   1 media	a prominent threat vector
+   1 media	domains
+   1 media	financial industry
+   1 media	industries
+   1 media	sectors
+   1 media	the Estonian economy
+   1 media applications	applications
+   1 media attention	a bonus
+   1 media attention	officials
+   1 media entities	Soviet Union
+   1 media exposure	APT12
+   1 media groups	organizations
+   1 media users	the conflict
+   1 media websites	websites
+   1 memory	a linked list
+   1 memory	a module
+   1 memory	a process
+   1 menacing forms	malware
+   1 mention	the attack campaigns
+   1 merah	aliases
+   1 messages	a mechanism
+   1 messages	data
+   1 messages	drafts
+   1 metadata	the discussed pisloader sample
+   1 method	SPACESHIP
+   1 methods	examples
+   1 methods XOR XOR Using USB	storage Yes
+   1 microchips	states
+   1 microphone	devices
+   1 microphone	intelligence
+   1 microphones	devices
+   1 microphones	peripherals
+   1 migrations	factors
+   1 militaries	Soviet Union
+   1 militaries	a source
+   1 military duty	an honor
+   1 military training	members
+   1 military training	skills the regime
+   1 mimikatz	credential theft tools
+   1 miniDionis	JSON blob
+   1 mining	sectors
+   1 ministries	Executive Summary Diplomatic missions
+   1 ministries	countries
+   1 ministries	missions
+   1 ministries	organizations
+   1 ministries	targets
+   1 minutes	a detailed timestamp
+   1 minzhu	words
+   1 mission	commander
+   1 misspelling	match
+   1 mistakes	high profile threats
+   1 mobile phone numbers	a way
+   2 mobile	the primary threat vectors
+   1 modes	a network sniffer
+   1 modification	configuration settings
+   1 module identification POST 	v1 HTTP POST
+   1 modules	C server
+   1 modules	ICS hardware
+   1 modules	a list
+   1 modules	a single data
+   1 modules	resources RPC
+   1 money	a motive
+   1 monitoring	national security topics
+   1 monitoring	some degree
+   1 monitoring	this attack
+   1 motive	indicators
+   1 mouse clicks	simulation actions
+   1 mouse movement	an anti
+   1 mouse movement	simulation actions
+   1 move file	commands
+   1 movies	IT details
+   1 ms pschedmp	an alternative connection
+   1 multiple communication channels	a failsafe
+   1 mutexes	samples
+   1 nahoonservices	stocks
+   1 name	things
+   2 name	victims whereabouts
+   1 names	stages
+   1 names	strings
+   1 names	the legitimate msi
+   1 names	things
+   1 nanotechnology	areas
+   1 nation	system information
+   1 national identification numbers	systems
+   1 national security	areas
+   1 nationalism	feelings
+   1 nations	a show
+   1 nations	adversaries
+   1 nationwide censorship campaigns	censorship
+   1 natural gas distribution	systems
+   1 nature	a virus
+   1 negotiation strategies	access sensitive information
+   1 negotiations	data
+   1 netblock	the address
+   1 netcat	world
+   1 network	a single compromise
+   1 network	intelligence
+   1 network	part
+   1 network	systems
+   1 network country	network metadata
+   1 network data	national security topics
+   1 network domain controllers	several computer systems
+   1 network information	documents
+   1 network monitoring	features
+   1 network monitoring activities	technical interrogation
+   1 network name	information
+   1 network operator	network metadata
+   1 network port forwarding	features
+   1 network shares	drives
+   1 network traffic	Yahoo
+   1 network traffic	the header
+   1 network type	network metadata
+   3 network security firewall use	mechanisms
+   1 networks	worms
+   1 new persistence creation	attacker methodologies
+   1 new process	current user
+   1 new software tools	technologies
+   1 news	financial industry
+   1 news	lures
+   1 news	other domain names
+   1 news	s homepage
+   1 news	words
+   1 news sites	lures
+   1 no database	such present
+   1 no simple fix	the capability
+   1 no such thing	a 
+   1 no such thing	onesize
+   1 none	English words
+   1 none	binaries
+   1 none	captions
+   1 none	files
+   1 none	indicators
+   1 none	observations
+   1 none	parameters
+   1 none	processes
+   1 none	sequences
+   1 none	tactics
+   1 none	techniques
+   1 none	timers
+   1 none	victims
+   1 none	vulnerabilities
+   4 none	servers
+   1 nonprofits	evidence
+   1 nonprofits	organizations
+   1 notes	the primary method
+   1 nuance	the information
+   2 nuclear energy	topics
+   1 number	system data
+   1 number mapping	information
+   1 numbers	data
+   1 numbers	plugin identifiers
+   1 numbers	systems
+   1 obfuscated code	a 
+   1 obfuscation	USENIX Security Symposium USENIX Association tion
+   1 objects	a percentage
+   1 office employees	working hours
+   1 oil	energy companies
+   1 oil	industries
+   1 oil production circles	the oil
+   1 oil refineries	critical infrastructure firms
+   1 oledump	available tool
+   1 ones	part
+   1 online login credentials	sensitive information
+   1 online stores	websites
+   1 openssl	utilities
+   1 operating system	details
+   1 operating system version	basic system information
+   1 operating system version	the computer
+   1 operational support	directorates
+   1 operations	STUXNET
+   1 operations	a tailored solution
+   1 operations	forms
+   1 operators	reconnaissance malware
+   1 organised crime syndicates	other threat actors
+   1 organization	a likely culprit
+   1 organization employees	organizations
+   1 organizations	APAC region
+   1 organizations	actors
+   1 organizations	entities
+   1 organizations	organizations
+   1 organizations	states
+   1 organizations	targets
+   1 origin	http
+   1 other code Email	C2 Re
+   1 other common network services	network devices
+   1 other security firms	part
+   1 others	APT malware
+   1 others	JRE
+   1 others	apps
+   1 others	functions
+   1 others	languages
+   1 others	network security firms
+   1 others	organizations
+   1 others	other malware
+   1 outbound traffic	data exfiltration
+   1 overlaps	iSight refer
+   1 own Apollonian curse	intelligence agencies
+   1 own body	the first step
+   1 own form	cyber conflict the rhetoric
+   1 packages	the parent process
+   1 packets	commands
+   1 packing	USENIX Security Symposium USENIX Association tion
+   1 pal4u	Cs
+   1 parameter	number
+   1 part	incorrect placement
+   1 particular interest	the malware
+   1 partners	stakeholders
+   1 partnership agreements	intellectual property
+   1 partnership agreements	valuable intellectual property
+   1 parts	China
+   1 party	levels
+   1 password	an administrator
+   1 password capture	server
+   1 password stealing	purposes
+   1 password theft	RATs
+   1 passwords	IT details
+   1 passwords	an infected computer
+   1 passwords	capture online banking credentials
+   1 passwords	data
+   1 passwords	personal information
+   1 passwords	the keylogger records data
+   1 passwords	user credentials
+   2 passwords	artifacts
+   2 passwords	credentials
+   1 paths	drives
+   1 paths	the actual malware
+   1 patterns	passwords
+   1 payload	PowerShell script
+   1 payload	Python
+   1 payload	the phone
+   1 payloads	drivers
+   1 payloads ZeroT	payloads The attack group
+   1 payment processing capabilities	compromises
+   1 payment providers	financial industry
+   1 peer	file transfer applications
+   1 peer hostnames	configurations
+   1 penetration	routine security operations
+   1 people	campaigns
+   1 perform	a command line shell
+   1 perimeter controls	other defense mechanisms
+   1 periodic event log clearing	measures
+   1 peripherals	ICS hardware
+   1 pernicious form	malware
+   1 persistent control	these system
+   1 personal email accounts	major global news outlets
+   1 personalities	the 
+   1 petabytes	a whole 
+   1 phase	VOHO campaign
+   1 phishing	Techniques
+   1 phishing	a malware delivery method
+   1 phishing	disposal
+   1 phishing	forms
+   1 phishing	tactics
+   1 phishing	vector
+   1 phone	devices
+   1 phone calls	communication
+   1 phone number	network metadata
+   1 phone screen	AMAP SDK Check
+   1 phone type	network metadata
+   1 phones	US electronics
+   1 photo uploading	available free web sources
+   1 photographs	Arabic text
+   1 photos	materials
+   1 photos	open source information
+   1 photos	personal information
+   1 pic	words
+   1 picks	names
+   1 pictures	part
+   1 pictures	victim data
+   1 piracy hacktivists	attackers
+   1 place	a last resort
+   2 place	victims whereabouts
+   1 platform	Figure
+   1 platforms	a result the list
+   1 plugin	HDD 
+   1 policy	any speaker
+   1 policy papers	data
+   1 political dynamite	access sensitive information
+   1 political espionage	motives
+   1 political espionage	part
+   1 political think tanks	organizations
+   1 politics	websites
+   1 popular search engines	channels
+   1 pornography	categories
+   1 port	options
+   1 port	the parameter
+   1 port numbers	additional information
+   1 ports	stocks
+   1 position	the global leader
+   1 poss ble malicious code	any suspicious activity
+   1 post offices	locations
+   1 power	services
+   1 power	systems
+   1 power flows	variables
+   1 power grids	critical infrastructure firms
+   1 power plant	a specific industrial control system
+   1 power plants	systems
+   1 powers	a manifestation
+   1 practice	many security teams
+   1 practitioners	years
+   1 precision injection molding	manufacturing processes
+   1 presence	Collect system information
+   1 presence	an illegal occupation
+   1 pressure	performance parameters
+   1 prevents threat	all remote access solutions
+   1 previous path	argument
+   1 pricing documents	intellectual property
+   1 pricing documents	valuable intellectual property
+   1 priority	options
+   1 private industry	discussions
+   1 privileges	a result
+   1 privileges	the computer
+   1 probable explanation	the malware
+   1 procedures	PLA soldiers
+   1 process list	the infected computer
+   1 process manipulation	functionality
+   1 processes	a command line shell
+   1 processes	a means
+   1 processes	data
+   1 product	handset metadata
+   1 product designs	stole intellectual property
+   1 programs	unwanted software
+   1 project	conventions
+   1 project files	drives
+   1 project logic	engineering files
+   1 prolific criminal profit	evidence
+   1 proprietary manufacturing processes	intellectual property
+   1 proprietary manufacturing processes	valuable intellectual property
+   1 protection	civilians
+   1 protocol design	a family
+   1 proxies	Acquire network information
+   1 proxies	actors
+   1 proxies	cyber attacks
+   1 proxies	log files
+   1 proxy	Features
+   1 proxy	crucial gateway systems
+   1 proxy server address	options
+   1 public identity	a diversion
+   1 publication	channels
+   1 publishers	sources
+   1 purchase	part
+   3 purposes	part
+   2 pwdump	Internet
+   1 quality assurance	individuals
+   1 question	JavaScript file
+   1 question	a standardized reference
+   1 ramFS serves	protected storage
+   2 randomization	functionality
+   2 randomization classes	framework
+   1 ransomware attacks	North Korea
+   1 rare earth metals	resources
+   1 rd party ad platform	first
+   1 reading	the victim host
+   1 real time debug messages	the malware
+   1 reconnaissance	phases
+   1 reconnaissance	purposes
+   1 reconnaissance	tactics
+   1 redirection	Yahoo
+   1 redundancies	control servers
+   1 refer	RSA NetWitness capabilities
+   1 reference sample	samples
+   1 reform	the army Ukraine
+   1 registrant details	indicators
+   1 registrants	domains
+   1 registry keys	stages
+   1 registry keys	the attack
+   1 registry values	system information
+   1 regular portable executable	Magic Hound
+   1 relations	fields Defense
+   1 relationships	activity
+   1 relays	types
+   1 release	new information
+   1 relevant decoy documents	the phishing lure
+   1 religious belief	feelings
+   1 remote access	RAT functionality
+   1 remote access tools	place
+   1 remote email	all remote access solutions
+   1 remote monitoring	share the same basic functionality
+   1 remote shell	commands
+   1 remote storage	data files
+   1 removable flash drives	USB devices
+   1 repetitions	data
+   1 reports	recipient
+   1 representatives	GGE
+   1 reputation	a software toy
+   1 reputation scanning	proactive detection methods
+   1 requirements	this threat actor
+   1 research	industries
+   1 research	proprietary information
+   1 research institutes	entities
+   1 researchers	Codoso
+   1 researchers	entities
+   1 reserves	s future oil requirements
+   1 resources	a result
+   1 resources	an extension list
+   1 respond	a service DLL
+   1 responses	PowerShell
+   1 results	indicators
+   1 retail industry	financial industry
+   1 retrieval	BACKSPACE
+   1 return None def FurDIGvZs	return GPvRqDBvWy
+   1 reverse engineering	skills
+   1 revision	software vendors
+   1 rights organizations	NGOs
+   1 risk	that information
+   1 robust detection	sections
+   1 rocket	risks rise
+   1 rogue antivirus	activities
+   1 rootkit	Features
+   1 rootkit functionality	advanced protection method
+   1 routers	network devices
+   2 routers	network hardware
+   1 run	super user plist
+   1 running	a service
+   1 runs	kernel level code
+   1 runtime checks	capabilities
+   1 runtime checks	counteranalysis capabilities
+   1 s	profiles
+   1 s	the rest
+   1 s DGFI	FinFisher customer
+   1 s PIVY	shellcode
+   1 s activities	the company
+   1 s contacts	computers
+   1 s executable file	resources
+   1 s experience	seamless
+   1 s involvement	a 
+   1 s key cyber	a manifestation
+   1 s network	a smokescreen
+   1 s network	attackers
+   1 s office	Tibetan organizations
+   1 s opinion	a guide
+   1 s signatures	data
+   1 s system	machines
+   1 sabotage	purposes
+   1 safety	areas
+   1 same time	accoounts
+   1 same victim organization	incidents
+   1 sample	output
+   1 samples	BKDR SLOTH
+   1 samples	Hacktool
+   1 samples	d
+   1 samples	factors
+   1 samples	services
+   1 sandbox automatic analysis	malicious activity
+   1 sandboxes	dynamic analysis systems
+   1 sandboxes	environments
+   1 sandboxes	resources
+   1 schedule	details
+   1 scientific research	domains
+   1 scientific research	sectors
+   1 scientists	scholars
+   1 scope	indicators
+   1 screen	intelligence
+   1 screen capture	commands
+   1 screen capture	features
+   1 screen capture	share the same basic functionality
+   1 screen capturing	RATs
+   1 screen capturing	advanced functionality
+   1 screenshots	modules
+   1 sderase	projects
+   1 sea construction	entities
+   1 sections	PAGE EXECUTE READWRITE
+   1 sectors	specialist knowledge
+   1 security	a fundamental need
+   1 security	a priority
+   1 security	an issue
+   1 security application	an embedded decoy
+   1 security companies	part
+   1 security patches	installed software
+   1 security programs	programs
+   1 security researchers	the attack
+   1 security updates	part
+   1 security vendors	IXESHE variants
+   2 security architecture	issues
+   1 selling	terrorist activity
+   1 sense	a general precaution
+   1 sense	the actor
+   1 serial number	OS information
+   1 serial variant production	factors
+   1 server	FinFisher product
+   1 server	part
+   1 server	the payload
+   1 server compartmentation	basic operational security practices
+   1 servers	Command
+   1 servers	Tor exit node
+   1 servers	a pivot
+   1 servers	indicators
+   1 servers	nodes
+   1 servers	part
+   1 servers	resources
+   1 servers	servers
+   1 servers	services
+   2 servers	command
+   2 servers	network hardware
+   3 servers	systems
+   1 serves	a down
+   1 serves	a downloader
+   1 serves	a loader
+   1 serves	a model
+   1 serves	a protected container
+   1 serves	an attribute
+   1 service	mobile fire
+   1 service attacks	vectors
+   1 service companies	stocks
+   1 service scanner	offensive network reconnaissance tools
+   1 services	Ukrainians
+   1 services	actions
+   1 services	an indispensable negotiator
+   1 services	functions
+   1 several intelligence services	third party actors
+   1 sewerage companies	stocks
+   1 share	much information
+   1 shares experiences	part
+   1 shares the same filename	the document file
+   1 shellcode	anything
+   1 shipping enterprises	entities
+   1 shoes	products
+   1 signatures	threat intelligence
+   1 signs	artifacts
+   1 similar beaconing data blocks	incidents
+   1 similar content	winone1
+   1 similar custom	targets
+   1 similar target systems	Stuxnet
+   1 similar tasking	the Chinese play catch
+   1 similar use cases	SeaDuke
+   1 single factor	the basis
+   1 site	victims
+   1 site content	a phone number
+   1 size	file information
+   1 skype	communications mechanism
+   1 slavery	UAE
+   2 smartphones	devices
+   1 smuggling	illicit activity
+   1 smurf attacks	attacks
+   1 social engineering	an entry point
+   1 social engineering	an initial attack vector
+   1 social engineering	vectors
+   1 social engineering attacks	actions
+   1 social engineering tactics	a means
+   1 social networking platforms	services
+   1 social networking platforms	technologies
+   1 socket	WinSock2 calls
+   1 softinc 	IP
+   1 software	goods
+   1 software	products
+   1 software	technologies
+   1 software artifacts	a direct effort
+   1 software code analysis	issues
+   1 software manufacturers	organizations
+   1 software vulnerabilities	any suspicious activity
+   1 soldiers	operators
+   3 solid patch management endpoint	mechanisms
+   1 solutions	Backdoor
+   1 solutions	procedures
+   1 some custom error messages	binaries
+   1 some extent the naming schema	iSight refer
+   1 some form	collaboration
+   1 some form	content management system
+   1 some form	cryptography
+   1 some form	cybercrime activity
+   1 some form	planning
+   1 some form	quality control process
+   1 some form	risk assessment
+   1 some form	web email
+   1 some industry reports	CozyDuke
+   1 some security researchers	Just
+   1 some sort	Kremlin coordination
+   1 some sort	backdoor loader
+   1 some sort	builder application
+   1 some sort	coincidence
+   1 some timeout values	the code
+   1 someone posing	a representative
+   1 something	states
+   1 source code	comments
+   2 source code	intellectual property theft
+   1 spaces	characters
+   1 spammers	the aax
+   1 spear phishing	a point
+   1 spear phishing	methods
+   1 spear phishing	techniques
+   1 spear phishing	the initial attack vector
+   1 spear phishing	this targeted philosophy
+   1 spear phishing emails	methods
+   1 specific knowledge	valuable information
+   1 spurious legitimation	Ukraine
+   1 spyware	content
+   1 ssl	words
+   1 sslMM	early msnMM backdoors
+   1 stack construction	obfuscation
+   1 start	system components
+   1 starters	Microsoft Visual Studio
+   3 startup	a service
+   1 state	factors
+   1 state interest	policy matters
+   1 state organisations	levels
+   1 state security actors	administration systems
+   1 static analysis categorization	activities
+   1 statuses	a U
+   1 stealth position	a random
+   1 storage devices	intelligence
+   1 stores a byte array	a key
+   1 stores the configuration block	a resource
+   1 strategic web compromise	a vector
+   1 stress	performance parameters
+   1 string	a marker
+   1 string	the proxy username
+   1 strings	data structures
+   1 strings	parameters
+   1 strings	tools
+   1 structures	data
+   1 style passing	parameters
+   1 subcampaigns	part
+   1 subdirectories	a sort
+   1 subgroups	part
+   1 such activity	part
+   1 such functionality	a key
+   1 such infection vectors	removable flash drives
+   1 such information	type
+   1 such information	unique bot id
+   1 sudden executive departures	events
+   1 supermarkets	locations
+   1 support	weapons
+   1 surprise	elements
+   1 suspicious registry changes	malicious behavior
+   1 svchost	process
+   1 swap temp var 15	the temporary variable
+   1 switches	network devices
+   1 switches	physical internal infrastructure
+   1 system	a mechanism
+   1 system	commands
+   1 system	system information
+   1 system DLLs	the main module
+   1 system administration	RATs
+   1 system administrators	bank employees
+   1 system design	projects
+   1 system files	programs
+   1 system information	the victim computer
+   1 system information	the victim host
+   1 system information	things
+   1 system interaction	system information
+   1 system processes	intelligence
+   1 system survey	functionality
+   1 systems	AgentBase
+   1 systems	Windows
+   1 systems	a primary defense
+   1 systems	a result
+   1 systems	bytes
+   1 systems	the code
+   1 tactical support	any purpose
+   1 tactics	a broad instrument
+   1 tactics	users
+   1 tags	commands
+   1 target	indicators
+   1 targeting	a reasonable variation
+   1 targets	APT32
+   1 targets	campaigns
+   1 targets	investigators
+   1 tasks	persistence mechanisms
+   1 taunts	supporters
+   1 teardrop attack	attacks
+   1 technical analysis	activities
+   1 techniques	CosmicDuke persistence
+   1 techniques	capabilities
+   1 techniques	part
+   1 techniques	the malware
+   1 techniques	time passes
+   1 technology	a delivery mechanism
+   1 technology	intellectual property
+   1 technology blueprints	intellectual property
+   1 technology blueprints	valuable intellectual property
+   1 telecom	industries
+   1 telecom	sectors
+   1 telecommunications	critical infrastructure components
+   1 telecommunications	industries
+   1 telecommunications	stocks
+   1 telecommunications companies	Ukrainian cyberspace
+   1 telecoms	CNI
+   1 telecoms infrastructure software	sectors
+   1 telemetry data	sources
+   1 temperature	performance parameters
+   1 tenure	chief
+   1 termination	advanced network threats
+   1 terms	iterative
+   1 terrorism	crimes
+   1 test results	intellectual property
+   1 test results	valuable intellectual property
+   1 test workstation use Windows Internet Explorer	default
+   1 that directory	msmsgr
+   1 that machine	a donor
+   1 that password	a key component
+   1 that string	a key
+   1 the 	lists
+   1 the 	the malware
+   1 the German government	Sofacy
+   1 the Indian government	an infection vector
+   1 the North American grid	events
+   1 the North Korean government	the malware
+   1 the Syrian malware groups	groups
+   1 the Syrian opposition	individuals
+   1 the UAE government	the likely operator
+   1 the Ukrainian conflict	Russia
+   1 the Ukrainian government	entities
+   1 the Ukrainian government	targets
+   1 the Vietnamese backdoor	an example
+   1 the Xtunnel infected machine	a pivot
+   1 the ability	Fully functional remote desktop display
+   1 the ability	RAT
+   1 the ability	Trojan
+   1 the ability	actions
+   1 the ability	additional malware features
+   1 the ability	basic backdoor functionality
+   1 the ability	capabilities
+   1 the ability	computer
+   1 the ability	functionality
+   1 the ability	remote access functions
+   1 the ability	s toolset
+   1 the ability	the backdoor
+   1 the accessed artifact path matches	Hide rules
+   1 the accidental bombing	incidents
+   1 the actor	any data
+   1 the actual control systems	a result
+   1 the actual number	intrusion activity
+   1 the addition	TCP protocol
+   1 the adversary	illegitimate
+   1 the aforementioned backconnect SSL	Various stealth methods
+   1 the agreement	a game changer
+   1 the annexation	the crisis
+   1 the anniversary	dates
+   1 the anticipated ability	factors
+   1 the apparent timezone	timestamps
+   1 the archive	CozyDuke dropper
+   1 the attachment	CPL file
+   1 the attachment	Microsoft Word document
+   1 the attack	Black Vine
+   1 the attack	CAB file
+   1 the attack	a measure
+   1 the attack	a multiplier
+   1 the attack vector	PowerPoint presentation file
+   1 the attacker	a toolbox
+   1 the attacker	an identifier
+   1 the attacker	part
+   1 the attacker	the service
+   1 the attempt	an attack
+   1 the attribution grapevine	RUMINT
+   1 the back door	a general service
+   1 the backbone	PLAN 
+   1 the backdoor	payload
+   1 the backdoor payload	Wingbird
+   1 the background	Android service
+   1 the behavior	execution
+   1 the binary	a wide character string
+   1 the board	stakeholders
+   1 the brighter side	a step
+   1 the bypass	no other malware
+   1 the caller	checks
+   1 the capital	targets
+   1 the cascade	a whole Figure
+   1 the case	systems
+   1 the censorship	internet access
+   1 the client	a pivot
+   1 the collection	the infected network
+   1 the command field	CommandData structure
+   1 the comment group	part
+   1 the community	njRAT
+   1 the completion	An indirect relationship
+   1 the compromise	areas
+   1 the compromise	details
+   1 the computer	GracS
+   1 the computer	a dropper
+   1 the computer	vulnerabilities
+   1 the computer name	the attacker
+   1 the configuration blob	the infection ID 
+   1 the configuration structure	the lpReserved parameter
+   1 the conflict	a whole
+   1 the conflict	times entities
+   1 the content	February
+   1 the content	intelligence
+   1 the control	ActiveX controls
+   1 the copied shortcut	an elevated process
+   1 the country	Caucasus
+   1 the country	part
+   1 the country	targets
+   1 the creation	member states
+   1 the current function name	first parameter
+   1 the current time	a seed
+   1 the cyber actors	the conflict
+   1 the cyber defence centre	an observer
+   1 the cyber operations	the conflict
+   1 the cyber world	part
+   1 the cybersecurity industry	Rocket Kitten
+   1 the date	EXIF metadata
+   1 the date	other system information
+   1 the death	actions
+   1 the decoded string	the comment
+   1 the decoy	Flash video file
+   1 the decrypted form	the resource
+   1 the default browser	a new process
+   1 the defence	threats
+   1 the descriptive 	pages
+   1 the developer	Seems
+   1 the development	cyberstrategy
+   1 the development	modification
+   1 the development	projects
+   1 the development	strategies
+   1 the development	the same university
+   1 the digital vulnerability	groups
+   1 the distractor IP	tactics
+   1 the document	the blank square
+   1 the domain	the plaintext configuration information
+   1 the domain controller	local network
+   1 the domain controller	servers
+   1 the domain name system	core internet infrastructure
+   1 the download url	strings
+   1 the driver	a binary chunk
+   1 the driver	a fake disk filter driver
+   1 the driver	a service
+   1 the dropper	components
+   1 the economic stability	account aspects
+   1 the economy	legitimacy
+   1 the election	theme
+   1 the email	a fake 
+   1 the email body	a social engineering technique
+   1 the embedded configuration string	strings
+   1 the end	this shift
+   1 the engine	Winnti system
+   1 the engineering	the physical process
+   1 the entire global economy	meager
+   1 the establishment	EU organizations
+   1 the event	some component factor
+   1 the ever	regional security issues
+   1 the exact same command line	the infector
+   1 the exact same source code	the module Bunny
+   1 the exact same time	the victim
+   1 the execution	the code
+   1 the exploit document	PowerShell script Figure
+   1 the fact	C2 servers
+   1 the fake domain	part
+   1 the fake website catalogues	data
+   1 the family	APT28 malware
+   1 the family	SunOrcal
+   1 the famous doctor	meanings
+   1 the figure	a tree
+   1 the file	JPG image
+   1 the file	PE32
+   1 the file	a cryptocontainer
+   1 the file	the response payload
+   1 the filename	Kernel32 DLL
+   1 the final payload	NetWire
+   1 the firewall	a failsafe mechanism
+   1 the first sample	malware
+   1 the first stage C2	Sinkholed Much
+   1 the flame	Attacks
+   1 the flame version	an infected computer
+   1 the following	Afghan Government websites
+   1 the following	HTTP request
+   1 the following	HTTPS requests
+   1 the following	POST requests
+   1 the following	PYLOT
+   1 the following	a simple algorithm
+   1 the following	advice
+   1 the following	an encrypted status message
+   1 the following	errors
+   1 the following	factors
+   1 the following	files
+   1 the following	information
+   1 the following	local system information
+   1 the following	logs
+   1 the following	other information
+   1 the following	something
+   1 the following	the server
+   1 the following Keylogger	hacking tools
+   1 the following Rapid Triage	benefits
+   1 the following VirtualMachine Debugger Sandbox Type S	debuggers
+   1 the following process	a live command prompt cmd
+   1 the following registry entry	a parameter
+   1 the following regular expression	an initial filter grep
+   1 the form	ADD
+   1 the form	C file
+   1 the form	DDOS operations
+   1 the form	DLL files
+   1 the form	GET
+   1 the form	RAR files
+   1 the form	RST
+   1 the form	SFX files
+   1 the form	TCP beaconing
+   1 the form	a complex image request
+   1 the form	a dll
+   1 the form	a password
+   1 the form	a person
+   1 the form	a profile
+   1 the form	a renamed netui3
+   1 the form	a sequence
+   1 the form	a standard executable image
+   1 the form	a trojan dropper
+   1 the form	a video
+   1 the form	an email purporting
+   1 the form	an in
+   1 the form	an unsolicited e
+   1 the form	another packet consisting
+   1 the form	breaches
+   1 the form	code analysis
+   1 the form	containers
+   1 the form	cyber espionage
+   1 the form	data files
+   1 the form	documents
+   1 the form	espionage
+   1 the form	executables
+   1 the form	files
+   1 the form	id
+   1 the form	libcurld
+   1 the form	modules
+   1 the form	netui3
+   1 the form	numbers
+   1 the form	rumours
+   1 the form	strings
+   1 the form	symbolic information
+   1 the form	tasks
+   1 the form	the corresponding configuration data
+   1 the form	the data sent
+   1 the form	trade secrets
+   1 the form	updates
+   1 the form	viruses
+   1 the form display	samples
+   1 the formation	structures
+   1 the future	Moscow
+   1 the future	the group
+   1 the future	the malware
+   1 the general public	stakeholders
+   1 the government	Ukraine
+   1 the government	the Estonian economy
+   1 the group	numerous Chinese cyber espionage actors
+   1 the group	other notorious attack groups
+   1 the hard disk serial number	fingerprint
+   1 the hard drive	C Program
+   1 the hardware	modems
+   1 the history file	a part
+   1 the home page	settings
+   1 the hostname	panes
+   1 the hostname	the infected computer
+   1 the hour	criteria
+   1 the image	a volume
+   1 the implant	ShadowTech RAT
+   1 the in	samples
+   1 the index	the stored value
+   1 the individual	a contributor
+   1 the infected computer	Base64 parameters
+   1 the infected computer	a mechanism
+   1 the infected machine	a proxy server
+   1 the infected system	a string
+   1 the infiltration	methods
+   1 the information	FTP server
+   1 the infrastructure	infrastructures
+   1 the initial feed stage valves	valves
+   1 the installation	a service
+   1 the installation log file name	Uroburos
+   1 the internal chat platform	evident
+   1 the internal name	identifiers
+   1 the international community	a country
+   1 the internet	a means
+   1 the internet	a potential tool
+   1 the internet	a security tool
+   1 the internet	part
+   1 the intrusion	APT adversaries
+   1 the issuer	certificate fields
+   1 the key length	an argument
+   1 the known cyber attacks	some advanced cyber espionage malware
+   1 the lab	part
+   1 the lab	the server
+   1 the lack	crimes
+   1 the lack	factors
+   1 the land attack cruise missile	Items
+   1 the language	tendencies
+   1 the language	the intended victim
+   1 the language code	a false flag
+   1 the lankiller archive	README file
+   1 the legal framework	warfare
+   1 the legal software TeamViewer	a main part
+   1 the list	components
+   1 the list	things
+   1 the loader	March
+   1 the local time zone	C
+   1 the location	elements
+   1 the location	information
+   1 the location folder	hidden
+   1 the login credentials	CosmicDuke
+   1 the machine	rundll32
+   1 the machine name	basic information
+   1 the macro content	show
+   1 the main backdoor thread	a subprocedure call
+   1 the main component	DLL
+   1 the main purpose	items
+   1 the major patch levels	the machine
+   1 the malicious binary	details
+   1 the malware	Farfli variant
+   1 the malware	Gh0st RAT
+   1 the malware	SLServer
+   1 the malware	TROJ GHOLE
+   1 the malware	a code
+   1 the malware	a driver
+   1 the malware	a whole
+   1 the malware	part
+   1 the malware	parts
+   1 the malware	spyware
+   1 the malware	the first command line parameter
+   1 the malware	the following example shows
+   1 the malware author	壳
+   1 the malware components	the product
+   1 the malware families	APT32 activity
+   1 the malware family	SLServer
+   1 the malware issues	HTTP POST request
+   1 the massive data leak	cyberattacks
+   1 the maximum frequency	a configuration
+   1 the message	Microsoft Word document
+   1 the message	a parameter
+   1 the minimalistic approach	Red October
+   1 the minor difference	similar behaviour
+   1 the misuse	UAE
+   1 the module path	data
+   1 the modus operandi	the threat actor
+   1 the name	Arabic
+   1 the name	application publisher
+   1 the name	aspects
+   1 the name	full delivery address
+   1 the name	links
+   1 the name Lanny Chen	information
+   1 the native filesystem	the main storage
+   1 the nature	attacks
+   1 the netcat utility	a reverse backdoor shell
+   1 the netcat utility	a reverse backdoor shell Copyright
+   1 the network	Figure
+   1 the network	the new proxy node
+   1 the network act	routers
+   1 the network layer	TCP HBEAT REQUEST TROJ DRPBEAT
+   1 the network server	points
+   1 the new persistence mechanism	a correlation point
+   1 the next stage	Windows PE DLL module
+   1 the next step	PE
+   1 the number	s operations
+   1 the official website	malware
+   1 the oil industry	sectors
+   1 the one	APT intrusions
+   1 the online Duo Insight	a particular domain
+   1 the operational information	Estonia
+   1 the organisation	Ukraine
+   1 the original campaign	the majority
+   1 the other known version	order sample
+   1 the package name The application	impersonate IEC
+   1 the packer	Safengine Licensor
+   1 the page	an exploit kit
+   1 the password	means
+   1 the password	useful configuration data
+   1 the past year	researchers
+   1 the payload	ASLASLKK223
+   1 the payload	ASLASLKK2231
+   1 the payload	a batch script
+   1 the payload	an encrypted file
+   1 the payload	memory Defines
+   1 the payload	the decryption key
+   1 the phenomenon	witness
+   1 the population	mainstream information channels
+   1 the pornographic material	RAR
+   1 the port	a listener
+   1 the power grid	US electronics
+   1 the presence	domains
+   1 the presence	the compromised system
+   1 the press	sources
+   1 the prior office monkey	functionality InternetCloseHandle InternetReadFile HttpSendRequestA HttpOpenRequestA HttpQueryInfoA InternetConnectA InternetCrackUrlA InternetOpenA InternetSetOptionW GetAdaptersInfo Much
+   1 the private sector	entities
+   1 the process	gathers system information
+   1 the prohibition	international law
+   1 the rate	customers
+   1 the real update service	the new executable look
+   1 the recent transformation	Ukraine
+   1 the registry	BASE64
+   1 the registry	a startup method
+   1 the registry	components
+   1 the registry	functions
+   1 the registry	storage
+   1 the reintroduced bug	Tor Browsers
+   1 the remote machine	a share
+   1 the resource locales	indicators
+   1 the rest	CozyDuke
+   1 the rest	Microsoft products
+   1 the result	the decryption key
+   1 the right	UN Charter
+   1 the role	a network relay
+   1 the running service	Poison Ivy server
+   1 the same address	match
+   1 the same address space	Sedreco 
+   1 the same algorithm	ELIRKS
+   1 the same algorithm	decrypt in place
+   1 the same algorithm	the backdoor
+   1 the same attacker	the malware
+   1 the same check sum	the original file
+   1 the same checksum	the specified message
+   1 the same code	Stuxnet
+   1 the same configuration structure	the out
+   1 the same cryptographic algorithm	the recon tool
+   1 the same data	the previous variant
+   1 the same date	the malware sample
+   1 the same date	the modified date
+   1 the same day	Oracle
+   1 the same day	the spear phishing email
+   1 the same development environment	MiniDuke
+   1 the same digital certificate	traits
+   1 the same directory	the config file
+   1 the same directory	the driver file
+   1 the same directory	the dropper
+   1 the same directory	the initial dropper
+   1 the same directory	the original binary this file
+   1 the same directory	the second component
+   1 the same domain names	DownExecute
+   1 the same download link pattern	TSPY RAMNY
+   1 the same dwCommandType	the original command
+   1 the same email address	the previous attempt
+   1 the same file	the data
+   1 the same file name	a binary file
+   1 the same filename	the previous attack
+   1 the same filename	the sample
+   1 the same folder	TeamViewer
+   1 the same format	the token
+   1 the same functionality	the 32
+   1 the same functionality	the function number
+   1 the same functionality	the original program
+   1 the same functionality	the static server
+   1 the same host server	malware
+   1 the same key	the configuration file
+   1 the same level	Wiper
+   1 the same loader	MiniDuke 
+   1 the same location	the report http
+   1 the same logon credential	the user
+   1 the same manner	Stuxnet
+   1 the same manner	a traditional border network
+   1 the same manner	the military espionage malware
+   1 the same manner	the previous input blocks
+   1 the same mutex	CMSTAR
+   1 the same name	the development machine
+   1 the same name	the dll file
+   1 the same name	the generated filename
+   1 the same name	the malware filename
+   1 the same network	the victim
+   1 the same network segment	the server
+   1 the same njq8	the exploit
+   1 the same path	the initial request
+   1 the same persistence mechanism	COMpfun
+   1 the same platform	OnionDuke
+   1 the same public key	SierraJuliett
+   1 the same registrant	micro
+   1 the same server	the fake CDT
+   1 the same size	smtXX
+   1 the same sort	language switch
+   1 the same sort	weaponised document
+   1 the same source base	KorDllbot
+   1 the same source code	the applet SHA1
+   1 the same source code	the dropper
+   1 the same stature	a minister
+   1 the same system information	described
+   1 the same tasking	Cluster
+   1 the same team	PinchDuke
+   1 the same technique	Tavdig
+   1 the same time	PinchDuke
+   1 the same time	Skelky
+   1 the same time	a decoy document
+   1 the same time	info
+   1 the same time	the corresponding recon tool
+   1 the same time	the original spearphishing URL
+   1 the same time	the software the user
+   1 the same time zone	Moscow
+   1 the same value	the command
+   1 the same version	Mansoor
+   1 the same way	Kimsuky
+   1 the same way	RSA
+   1 the same way	command
+   1 the same way	the file back283671047171
+   1 the same way	the infection
+   1 the same way	the initial phone
+   1 the same way	the main module
+   1 the sample	FinFly Web
+   1 the sample	samples
+   1 the scale	Russia 
+   1 the second stage C2	part
+   1 the second stage loader	PE DLL module
+   1 the server	a bad actor
+   1 the server	a proof
+   1 the server	the attack URLs
+   1 the server variant	a server
+   1 the service	Winnti system
+   1 the service manager	tools
+   1 the session	features
+   1 the shellcode payload	Metasploit reverse shell
+   1 the shortened link	links
+   1 the sort	RUMINT
+   1 the sort	organizations
+   1 the source	a client
+   1 the spread	sensitive information
+   1 the spread	threats
+   1 the spy service	some doubt
+   1 the startup configurations	commonplace registry entries
+   1 the string	the information structure
+   1 the subject	each email
+   1 the subroutine uploadPOST	samples
+   1 the support	the usual backdoor functionality
+   1 the suppression	goals
+   1 the sustained targeting	APT10
+   1 the system	Havex versions
+   1 the system	a whole
+   1 the system dynamics	variables
+   1 the system version	data
+   1 the target	a result
+   1 the target	cases
+   1 the target	innocuous 
+   1 the target	target specifications
+   1 the target The attachment	RAR archive
+   1 the target computers	an attachment
+   1 the targeted attack	BackDoor
+   1 the targeted use	computer network exploitation
+   1 the targeting	indicators
+   1 the task name	Some information
+   1 the technology sector	industries
+   1 the theft	the world
+   1 the threat actor	a mercenary entity
+   1 the timing	issues
+   1 the tool	an all
+   1 the total number	research
+   1 the type	parameters
+   1 the ultimate payload	the website
+   1 the unicode version	strings
+   1 the uninstaller module	utilities
+   1 the unique shellcode	this campaign
+   1 the use	FireEye report
+   1 the use	Flash Player
+   1 the use	PLCSIM
+   1 the use	criminal cyber activities
+   1 the use	cyber espionage
+   1 the use	developments
+   1 the use	elements
+   1 the use	events
+   1 the use	evolves
+   1 the use	investigation
+   1 the use	the exploitation
+   1 the use	workarounds
+   1 the user	a form
+   1 the user	a trustworthy entity
+   1 the user	data
+   1 the usual dull PDF	Flash video file
+   1 the vaccine detection	technologies
+   1 the vast majority	backdoors
+   1 the victim	The infection site tests
+   1 the victim	a 
+   1 the victim	a network
+   1 the victim	information
+   1 the victim host	variant checks
+   1 the victim spread	organizations
+   1 the volume serial number	a launch point
+   1 the vulnerability	a primary tool
+   1 the vulnerability	information
+   1 the way	the same exact file properties
+   1 the whole file	similar manner
+   1 the widespread use	North Korea
+   1 the word	processes
+   1 the worker component	Winnti system
+   1 the wrong target	an apparent error
+   1 the xpi file	an extension
+   2 the attack	a whole
+   2 the company	locations
+   2 the computer name	system information
+   2 the encryption	framework
+   2 the file	malware
+   2 the following	mechanisms
+   2 the form	a string
+   2 the form	a web pop
+   2 the form	an executable file
+   2 the form	another piece
+   2 the form	emails
+   2 the fundamental first step	characterizations
+   2 the keylogger	tools
+   2 the loopback address	IP
+   2 the malware	Windows executable
+   2 the malware	data
+   2 the payload	a service
+   2 the same domain registration information	the well
+   2 the same prefix	the loader
+   2 the same time	Trojan
+   2 the same way	hillaryclinton
+   2 the same weak encryption algorithm	BS2005
+   2 the wild	part
+   3 the energy	industries
+   3 the form	blog posts
+   3 the payload	NetWire
+   3 the same directory	the original dropper
+   1 theft	common financial fraud
+   1 themes	lures
+   1 themes	the campaign
+   1 themes	the infrastructure
+   1 this activity	Blackfly
+   1 this activity	an 
+   1 this analysis	PowerPoint slideshow file
+   1 this attack method	a watering hole attack
+   1 this backdoor	T9000
+   1 this blog	malware
+   1 this campaign	BKDR ELISE
+   1 this campaign	campaigns
+   1 this case	CPL file
+   1 this case	Farfli variant
+   1 this case	Microsoft Word document
+   1 this context	a nation
+   1 this date	the callback domain
+   1 this declaration	a statement
+   1 this educational website http	Israeli websites
+   1 this espionage	a means
+   1 this event	part
+   1 this exercise	a precursor
+   1 this export	a parameter
+   1 this family	ByeByeShell
+   1 this family	a percentage
+   1 this file	Backdoor
+   1 this file	library
+   1 this file	ransomware
+   1 this finding points	a context
+   1 this folder	word
+   1 this form	journalism
+   1 this form	retaliation
+   1 this function	Integerize sub 44C1C0
+   1 this group	APT28
+   1 this group	Trojan
+   1 this information	the sole command line argument
+   1 this malicious code	a hacker
+   1 this malware	Backdoor
+   1 this malware	SunOrcal
+   1 this malware	Trojan backdoor
+   1 this malware	UpDocX UpDocX
+   1 this malware	a realistic simulated exercise
+   1 this method	means
+   1 this move	a 
+   1 this name requirement	an added measure
+   1 this new form	conflict
+   1 this one	a structure
+   1 this ongoing research	an opportunity
+   1 this operation	WhiskeyBravo
+   1 this paper	BlackEnergy
+   1 this parameter	a decryption key
+   1 this particular malicious file	Exploit
+   1 this past summer	a way
+   1 this possibility	quite remote
+   1 this random number	a command line argument
+   1 this request functions	a means
+   1 this research	English words
+   1 this sample	Derusbi Trojan
+   1 this section	OSBoot
+   1 this section	hacktivist groups
+   1 this server	a vector
+   1 this sleep	Seems
+   1 this snippet	data
+   1 this socket	a file
+   1 this sort	activity enable anyone
+   1 this sort	advanced persistent threat
+   1 this sort	corporate environment
+   1 this sort	emergent mob
+   1 this sort	information
+   1 this sort	malware component
+   1 this sort	payload
+   1 this sort	trick
+   1 this sort	work
+   1 this step	part
+   1 this targeted attack	Trojan
+   1 this technique	ASLR bypass
+   1 this technique	a filtering mechanism
+   1 this technique	a kind
+   1 this threat	ExPetr
+   1 this threat	RDN
+   1 this threat	Win32
+   1 this time frame	a result
+   1 this tool	a payload
+   1 this topic	a lure
+   1 this value	a command line parameter
+   1 this variant	Troj
+   2 this payload	Backdoor
+   2 this sample	malware
+   3 this threat	Backdoor
+   2 those operating	institutions
+   1 threat detection	services
+   1 threat intelligence	a whole
+   1 threat intelligence	issues
+   1 threat intelligence	services
+   2 threat actors	part
+   2 threat detection	issues
+   1 threats	Trojan
+   1 threats	harassment
+   1 time	Apple 
+   1 time	North Korea 
+   1 time	other system information
+   1 timestamps	Stuxnet
+   1 timestamps	data
+   1 timestamps	file information
+   1 timestamps	mutex names
+   1 timing	indicators
+   1 titles	clients
+   1 tnyjs	the exploitation
+   1 tools	APT
+   1 tools	APTs
+   1 tools	Operation
+   1 tools	a lure
+   1 tools	elements
+   1 tools	procedures
+   1 torrents	available free web sources
+   1 torture	UAE
+   1 torture	abuses
+   1 trade	issues
+   1 trade secrets	steal intellectual property
+   1 traditional cyber crime tools	a component
+   1 traffic management	situations
+   1 traffic relaying	RATs
+   1 training	an English linguist
+   1 transactiona 	campaign
+   1 transfer references	fields
+   1 transportation	activities
+   1 transportation	services
+   1 transportation Victim	areas
+   1 travel ban	the security authorities
+   1 travel bans	sanctions
+   1 treaties	norms
+   1 trusted security software	a decoy
+   1 twitter accounts	attackers
+   1 type	research
+   1 types	part
+   1 underground market	a commercial product
+   1 unique bot id	data
+   1 unique form	communication encryption
+   1 unknown software vulnerabilities	means
+   1 updates	a backup domain
+   1 upgrades	part
+   1 upload	zip ASDELETE 
+   1 uploading	functions
+   1 uptime	process information
+   1 uranium enrichment facilities	part
+   1 uranium enrichment system	a whole
+   1 urls	things
+   1 usage	clusters
+   1 usage	this operation
+   1 use	DNS domains
+   1 use	a front
+   1 use	a means
+   1 use	infrastructure
+   1 use	part
+   1 use	the backdoor
+   1 use English	a primary language
+   1 use Russian mail	Ukrainians
+   1 user account authentication	AD domain
+   1 user group membership	gathers system information
+   1 user interaction	a countermeasure
+   1 user name	gathers system information
+   1 user name	the attacker
+   1 user name	the client
+   1 user name	the computer
+   1 user passwords	credentials
+   2 user name	system information
+   1 username	Collect system information
+   1 username	basic system information
+   1 username	the client
+   1 usernames	IT details
+   1 usernames	credentials
+   1 usernames	data
+   2 users	users
+   1 utilities	components
+   1 utility	a reverse backdoor shell
+   1 v1	RAT
+   1 vSkimmer	Dexter
+   1 validation issues	the value
+   2 value	indicators
+   1 values	corruption
+   1 valves	valves
+   1 variant	Trojan
+   1 variant	targets
+   1 various conference materials	a slideshow
+   1 various news agencies	media resources
+   1 vendors	Maudi
+   1 vendors	stakeholders
+   1 victims	Sofacy
+   1 victims	part
+   1 video	a lureâ
+   1 video capturing	RATs
+   1 video files	camouflage
+   1 video uploading	available free web sources
+   1 videos	open source information
+   1 violence	an armed attack
+   1 virtual address	position member
+   1 virtual environment detection	detection
+   1 virulent form	warfare
+   1 viruses	malicious code
+   1 viruses	malware
+   1 visibility	a vendor
+   1 visitors	cases
+   1 visitors	the target organization
+   1 voice mail number	network metadata
+   1 volunteer cyber expertise	Russia
+   1 vulnerability	a way
+   1 vulnerability detection	features
+   1 vulnerability mining	issues
+   1 war	a political activity
+   1 warfare	a means
+   1 warnings	tactics
+   1 waste	stocks
+   1 watchdog organizations	groups
+   1 watches	attributes
+   1 watches	goods
+   1 water	mini power plants
+   1 water	stocks
+   1 water systems	facilities
+   1 water systems	multiple industrial control industries
+   1 waterholes	techniques
+   1 waterholing	malware
+   1 waterholing	this targeted philosophy
+   1 ways	time passes
+   2 weaponry capabilities	topics
+   1 weapons	a response
+   1 weapons	systems
+   1 weather	s homepage
+   1 web browsers	Internet data
+   1 web browsers	applications
+   1 web cameras	devices
+   1 web mail	AD authentication
+   1 web money	payment systems
+   1 web pages	a means
+   1 webcam view	commands
+   1 webcams	peripherals
+   1 webmail	the target organization
+   1 website	a sponsor
+   1 website hosting	types
+   1 websites	a result
+   1 websites	watering hole attacks
+   2 wget	applications
+   1 whois	tools
+   1 wife	a lure
+   1 wifi	intelligence
+   1 wind	mini power plants
+   1 words	keywords
+   1 work	a deputy head
+   1 workstations	local network
+   1 worms	malicious code
+   1 worms	malware
+   1 xor	operators
+   1 xuehui	words
+   1 years	a means
+   1 years	an officer
+   1 years	camouflage
+   1 zones	a result
+   1 zwShell application	required 
