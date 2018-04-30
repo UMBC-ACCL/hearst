@@ -23,7 +23,8 @@ http://people.ischool.berkeley.edu/~hearst/papers/coling92.pdf
 
 ## some sample output ##
 
-**apt_2017** is a directory with some sample text files
+**apt_2017** is a directory with some sample text files that you can
+  use for testing or experimentation
 
 **apt_sg.txt** is the output produced by hearst.py run on more than 400
 APT documents where the 1st column is the specific term and the second
